@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back2"
+    tools:context=".Dhaka_place">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dhaka Division "
+                android:gravity="center"
+                android:textColor="@color/colorPrimary"
+               android:textStyle="bold"
+                android:padding="30dp"
+                android:textSize="20dp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:layout_margin="5dp"
+            android:background="@color/colorPrimaryDark" />
+        <ScrollView
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_height="match_parent">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:orientation="vertical">
+    <Button
+            android:id="@+id/btndhaka"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.Button.Borderless"
+            android:text="Dhaka"
+            android:textColor="@color/colorwhite"
+            android:textSize="@dimen/text_size"
+            android:padding="@dimen/text_padding"
+            android:textStyle="bold" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+
+            <Button
+                android:id="@+id/btnfaridpur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="faridpur"
+                android:textColor="@color/colorwhite"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textStyle="bold"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="48dp" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btngazipur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="gazipur"
+                android:textColor="@color/colorwhite"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="96dp" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+
+            <Button
+                android:id="@+id/btnnarayanganj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="narayanganj"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="240dp"                 android:textStyle="bold"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnnarshindi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="narshindi"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="288dp"                android:textStyle="bold"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnrajbari"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="rajbari"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="384dp"                android:textStyle="bold"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnshariatpur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="shariatpur"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="432dp"                android:textStyle="bold"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnkishorgonj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="kishorgonj"
+                android:textStyle="bold"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btntangail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="tangail"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="148dp"
+                tools:layout_editor_absoluteY="528dp"
+                android:textSize="@dimen/text_size"
+                android:layout_marginBottom="25dp"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <!--<Button
+                android:id="@+id/madaripurbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="madaripur"
+                android:textStyle="bold"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnmanikganj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="manikganj"
+                android:textStyle="bold"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="1dp"
+                android:padding="5dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnmunshiganj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="munshiganj"
+                android:textStyle="bold"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/text_padding"
+                android:textColor="@color/colorwhite"/>
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_margin="1dp"
+                            android:padding="5dp"
+                            android:background="@color/colorwhite" />-->
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

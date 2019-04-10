@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chattagram_city"
+    android:background="@drawable/back2"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chittagong Division"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:gravity="center"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:background="@color/colorPrimaryDark" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btnChittagong"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Chittagong"
+                android:textAllCaps="true"
+                android:textColor="@color/colorPrimary"
+                android:textSize="18dp" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnBrahmanbaria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:textSize="18dp"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textColor="@color/colorwhite"
+                android:text="Brahmanbaria" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnComilla"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:text="Comilla"
+                android:textAllCaps="false"
+                android:textSize="18dp"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnChandpur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Chandpur"
+                android:textAllCaps="false"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="18dp"
+                android:textColor="@color/colorwhite"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnNoakhali"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Noakhali"
+                android:textAllCaps="false"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="18dp"
+                android:textColor="@color/colorwhite"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnKhagrachhari"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="Khagrachhari"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="18dp"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnRangamati"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="Rangamati"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="18dp"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnBandarban"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="Bandarban"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="18dp"
+                android:textColor="@color/colorwhite"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:background="@color/colorwhite" />
+            <Button
+                android:id="@+id/btnCoxs_Bazar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="Cox's Bazar"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textSize="18dp"
+                android:textColor="@color/colorwhite"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

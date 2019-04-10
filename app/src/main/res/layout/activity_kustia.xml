@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".kustia">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Hardinge Bridge"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="219dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/hardinge_bridge" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/harding"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Rabindranath Tagore's Shilaidaha Kuthibari"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="219dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/rabi_kustia" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rabi_kustia"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Lalon Shah"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="219dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/lalon" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lalon"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+</LinearLayout>
+</ScrollView>

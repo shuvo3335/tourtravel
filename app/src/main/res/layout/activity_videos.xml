@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#585858"
+    tools:context=".Videos">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtube_video"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.google.android.youtube.player.YouTubePlayerView>
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorwhite"
+        android:textSize="19dp"
+        android:text="Saint Martin Island"/>
+    <Button
+        android:id="@+id/watch_button1"
+        android:background="#585858"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:textAllCaps="false"
+        android:textSize="17dp"
+        android:textColor="@color/colorwhite"
+        android:text="Watch video"
+        android:layout_alignParentLeft="true" />
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:id="@+id/youtube_video2"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </com.google.android.youtube.player.YouTubePlayerView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorwhite"
+            android:textSize="19dp"
+            android:text="Coxs Bazar Sea Beach"/>
+
+        <Button
+            android:id="@+id/watchbtn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:textSize="17dp"
+            android:textAllCaps="false"
+            android:background="#585858"
+            android:text="Watch Video"
+            android:textColor="@color/colorwhite" />
+      </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:id="@+id/youtube_video3"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </com.google.android.youtube.player.YouTubePlayerView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorwhite"
+            android:textSize="19dp"
+            android:text="Sajek Valley The Kingdom of Cloud"/>
+
+        <Button
+            android:id="@+id/watchbtn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="#585858"
+            android:text="Watch Video"
+            android:textAllCaps="false"
+            android:textColor="@color/colorwhite"
+            android:textSize="17dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:id="@+id/youtube_video4"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </com.google.android.youtube.player.YouTubePlayerView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorwhite"
+            android:textSize="19dp"
+            android:text="Patenga Sea Beach"/>
+
+        <Button
+            android:id="@+id/watchbtn4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="#585858"
+            android:text="Watch Video"
+            android:textAllCaps="false"
+            android:textColor="@color/colorwhite"
+            android:textSize="17dp" />
+    </LinearLayout>
+</LinearLayout>
+</ScrollView>

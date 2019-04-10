@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".feedback">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="231dp"
+        android:src="@drawable/feedback" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="23sp"
+        android:text="Write Your Feedback Bellow"/>
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"/>
+    <EditText
+        android:id="@+id/message"
+        android:gravity="start|top"
+        android:layout_marginTop="10dp"
+        android:hint="write your feedbacks here"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="3"/>
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send it to us"/>
+
+    <TextView
+        android:id="@+id/mail"
+        android:layout_marginTop="10dp"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:enabled="false"
+        android:text="marjan15-4749@diu.edu.bd , shakha15-4727@diu.edu.bd"/>
+
+
+</LinearLayout>

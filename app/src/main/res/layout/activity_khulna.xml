@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".khulna">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="The Shundarban"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="219dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/sundarban4" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shundarban"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Shahid Hadis Park"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="219dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/imageViewHadis" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mahastangar"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Khulna Museum"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="242dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/museum" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/khulna_museum"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Hiron Point"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="219dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/imageViewHiron" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hiron_point"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Genocide-Torture Archive and Museum"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="219dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/genocide" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/genocide"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Rabindra Complex"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/rabindra_com"/>
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rabi_khulna"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+</LinearLayout>
+</ScrollView>

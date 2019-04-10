@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dhaka"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:paddingTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Lalbagh Fort"
+        android:textSize="20dp"
+        android:textColor="@color/colorPrimary"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:paddingLeft="10dp"
+        android:background="@color/colorPrimaryDark" />
+
+    <ImageView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/lalbag"
+        />
+    <TextView
+        android:layout_marginTop="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lalbag"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ahsan Manzil"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="218dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/ahsan_manjil" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lalbag"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bangladesh National Zoo"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/zoo1"
+        />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Zoo"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jatiya Sangsad Bhaban"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="209dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/sangsad" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sangsad"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Star Mosque"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="228dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/starmosque" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/starMosque"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shaheed Minar"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="255dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/shahid_minar" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shahid_minar"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fantasy Kingdom"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/fantasy" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shahid_minar"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Liberation War Museum"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/libarationwar" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Liberation_War_Museum"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rose Garden Palace"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="258dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/rose_garden" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rose_garden"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Armenian church"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="286dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/armenian_church" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/armenian_church"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bongobondhu Sheikh Mujibar Novo Theatre"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="288dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/novo" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/novo_theater"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Moinot Ghat Beach- Mini Cox's Bazar"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="222dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/moinot_ghat" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/moinot_ghat"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hussaini Dalan"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="258dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/hussani_dalan" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hussani_dalan"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shisu Mela"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="264dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/shisu_mela" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shisu_mela"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bangladesh Military Museum"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_margin="1dp"
+        android:background="@color/colorPrimaryDark"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="292dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/military" />
+    <TextView
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/military_museum"
+        android:paddingLeft="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorPrimary"/>
+
+</LinearLayout>
+</ScrollView>

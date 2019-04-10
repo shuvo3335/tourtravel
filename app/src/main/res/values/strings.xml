@@ -1,0 +1,1205 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tour &amp; Travel</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nearest_locatioin">Map</string>
+    <string name="park">parks</string>
+    <string name="catagories">Categories</string>
+    <string name="title_activity_museam">museam</string>
+
+    <string-array name="museams_list">
+        <item> Army Museum </item>
+        <item> National Museum </item>
+        <item> Air Force Museum </item>
+        <item> Money Museum </item>
+        <item> Liberation War Museum of Bangladesh Police </item>
+    </string-array>
+
+    <string-array name="beach_list">
+        <item> Coxs Bazar Beach </item>
+        <item> St. Martins Island </item>
+        <item> Patenga sea beach </item>
+        <item> kuakata </item>
+        <item> Nijhum Dip </item>
+    </string-array>
+
+    <string-array name="waterfall_list">
+        <item> Hum Hum </item>
+        <item> Jadipai waterfall </item>
+        <item> Khoiyachora Waterfall </item>
+        <item> Madhabkunda waterfall </item>
+        <item> Nafa-khum </item>
+    </string-array>
+
+    <string-array name="heritage_list">
+        <item> Lalbag Fort </item>
+        <item> Jatiyo Smriti Soudho </item>
+        <item> Sonargaon </item>
+        <item> Ahsan Manzil </item>
+        <item> Shat Gombuj Masjid </item>
+        <item> The Sundarbans </item>
+        <item> Paharpur Buddha Bihar </item>
+        <item> MahasthanGarh </item>
+        <item> Natore Rajbari </item>
+
+    </string-array>
+    <string-array name="hills_list">
+        <item> Keokradong </item>
+        <item> Sajek Valley </item>
+        <item> Tazing Dong </item>
+        <item> Foys Lake </item>
+        <item> Chimbuk Hill </item>
+
+    </string-array>
+
+    <string-array name="division_name">
+        <item> Dhaka </item>
+        <item> Rajshahi </item>
+        <item> Rangpur </item>
+        <item> Khulna </item>
+        <item> Chattagram </item>
+        <item> Barishal </item>
+        <item> Sylhet </item>
+        <item> Mymensingh </item>
+    </string-array>
+
+    <string name="title_activity_museams">museams</string>
+    <string name="title_activity_army_museum">Army Museum</string>
+    <string name="tajhat">
+        "Tajhat Palace:\n\n"
+        "Few of the attractions in Bangladesh are as stately, large and beautiful as the Tajhat Zamindar Palace. This historical palace was built near the beginning of the 20th century. It is situated roughly three kilometers south east of Rangpur’s city center and currently serves as a museum for the public.\n"
+        "The front of this impressive edifice is about 76 meters long and two stories high. A ribbed conical dome supported by a tall octagonal neck is located in the center of the roof and crowns the palace.\n\n"
+        "How to go: \n"
+        "You can take a rickshaw or auto rickshaw (Battery Driven Rickshaw) to visit this place from Rangpur.\n"
+    </string>
+    <string name="vinnojogot">
+        "Vinno jogot brings lots of fun to northwest of Bangladesh.It is one of the most spectacular (kind of theme) parks in the country and has become a great tourist attraction in Rangpur. It is about 100 acres acres.Vinno Jogot beautify by many rides. This place take you a daydream world.\n"
+        "Vinnya jagat provides you the facilities of a 3 star hotel/resort Dream Place in a fantastic location surrounded by water pools and a mosque by its side. Vinnya jagat offers hotel packages to visitors. Visitors with their near and dear ones can stay and enjoy nights in vinnya jagat.\n"
+        "here entry fee 30 Taka, per Ride 380 Taka. \n "
+    </string>
+    <string name="rangpur_zoo">
+        "Rangpur Zoo: \n\n"
+        "Recreation Park and Rangpur Zoo, or Rangpur Zoo is a Zoo located in Rangpur in Bangladesh. This is the largest zoo in the North Bengal. With an area of 20.27 acre of lush green trees and grasses, the zoo is located east side of Hanuman-tola road beside police-line, not far from Rangpur District Administration Office.\n"
+    </string>
+    <string name="kantaje">
+        "Kantajew Temple (Bengali: কান্তজীউ মন্দির)\n\n"
+        "Kantanagar Temple, commonly known as Kantaji Temple or Kantajew Temple (Bengali: কান্তজীউ মন্দির) at Kantanagar, is a late-medieval Hindu temple in Dinajpur, Bangladesh. The Kantajew Temple is one of the most magnificent religious edifices belonging to the 18th century. The temple belongs to the popular Hindu Kanta or Krishna and this is most popular with the Radha-Krishna cult (assemble of memorable love) in Bengal.\n"
+        "This beautiful temple is dedicated to Krishna and his wife Rukmini. Built by Maharaja Pran Nath, its construction started in 1704 CE and ended in the reign of his son Raja Ramnath 1722 CE,during the reign of his son Maharaja Ramnath.[3] It boasts one of the greatest examples on terracotta architecture in Bangladesh and once had nine spires, but all were destroyed in an earthquake that took place in 1897.\n"
+    </string>
+    <string name="shopnopuri">
+        "Shopnopuri Park:\n"
+        "Shopnopuri is a great Amusement Park which is situated at Aftabganj of Nababganj in the district of Dinajpur. This a theme park which covers an area of 920 acre. You will need to buy ticket to enter inside the park. Dhaka (Capital of Bangladesh) to Dinajpur by bus will take about 9-11 hours.\n"
+        "Shopnopuri is one of the most beautiful artificial picnic spot in Bangladesh especially in North Bangle. You can go there either from Hill or from Dinajpur. There you can enjoy here by watching artificial beauty.\n"
+        "The entry fee of Shaopnopuri theme park is 20 taka per person. After entering Shopnopuri, you can go to “Fish World”. Its ticket fee is only 5 taka per person. Inside the “Fish World”, you can see artificial water plants, fished and various water animals. After visiting fish world, you can go to “Animal Kingdom”. Entry fee 5 taka per person. Here you can see artificial statue of some animals like Amu, Flamingo, Dinosaur, Pegasus etc. This part is great for kids.\n"
+    </string>
+    <string name="ramsagar">
+    "Ramsagar is a largest man made lake of Bangladesh situated in the village Tejpur eight kilometer south of the Dinajpur town. The lake wide is about 1079 m north-south and length 192.6 m in East-West. Ramsagar was stablished in the mid-1750s by Raja Ram Nath. About 1.5 million worker took part to dig the lake and total cost is 30000 TK that time.\n\n"
+    "How to go:\n"
+    "One can start his journey for the monument from Dinajpur town or Sayedpur Airport by any kind of motorized vehicle. We suggest travelers to hire a rickshaw van of take a ride by ‘Nosimon’ from the place called ‘Das Mile*, which means 10 miles’ upto ‘Baro Mile*, which means 12 miles’ boat point. It may take 10-20 Taka person for ride.\n"
+</string>
+    <string name="nayabad">
+        "Nayabad Mosque: \n"
+        "Nayabad Mosque is located in the bank of the river Dhepa, just 1.5 km south-west of the infamous Kantaji Temple at Dinajpur in Bangladesh. The mosque is named after the village “Nayabad” in which it stands in the Police Station of Kaharole. According to an inscription found on the central doorway, it was constructed at 1793 AD in the reign of Mughal Emperor Shah Alam II. During that period, Raja Baidyanath, the last of the Dinajpur Royal family, was the Zaminder (feudal land owner).\n"
+    </string>
+    <string name="nilsagar">
+    "Nilsagar is a popular historical dighi (big pond). It is located at Gorgram union about fourteen kilometer south-west of Nilphamari district proper. During the time of Raja Birat there were lot of cow farms at Gorgram union. Raja Birat dug a big pond or dighi for the cows. There many name such as Birat Dighi or Birna Dighi or Binna Dighi. After the independence of Bangladesh the Dighi was renamed as Nilsagar.\n\n"
+    "How to go: \n"
+    "From Nilphamari you can take rickshaw, Local bus and also use boat to visit this area.\n"
+</string>
+    <string name="chini">
+    "Chini Masjid is located at Syedpur Upazila of Nilphamari district. Saidpur is the northern railway and industrial city of Bangladesh. Chini Masjid is one of the most fascinating and distinctive architect. Chini Masjid is also known as glass Mosque. Chini Masjid or Glass Mosque was established in 1883.\n"
+    "To decorate Chini Masjid, 283 pieces of Cross Marble stones were used. Along with Cross Marble stones, 25 tons small chips of Chinaware-plate and pieces of glass (both color and non-color) porcelain were also used. This mosque has 27 towers from which 5 towers are still incomplete.\n"
+</string>
+    <string name="dharmapal">
+    "Palace of Raja Dharmapal:\n"
+    "Location:\n"
+    "Palace of Raja Dharmapal is located at Dharmapal, Jaldhaka, Nilphamari.\n"
+</string>
+    <string name="tista">
+        "Tista Barrage:\n"
+        "Largest Irrigation project of Bangladesh is Tista barrage. Tista Barrage situated on Tista River at Duani Union in Hatibandha sub district in Lalmonirhat district. The length of Tista Barrage is 615metre. It’s built with concrete with 44 radial gates. The Barrage has 12,750 cusec discharge ability. This Barrage is mainly used to divert two hundred cusec of water for irrigation by a canal taking off on the right bank side of Tista River.\n"
+
+    </string>
+    <string name="said_rail">
+        "Saidpur Railway Workshop:\n"
+        "Address:\n"
+        "Saidpur, Nilphamari, Rangpur Divison, Station Rd, Saidpur \n"
+    </string>
+    <string name="betarband">
+        "Bhetarbandh Zamindar Bari:\n"
+        "Bhetarbandh Zamindar Bari or landlord house is located at Bhetarbandh village in Bhetarbandh union about 16 km far from Nageshwari sub district of Kurigram district. At the primary period of British ruling time, the headquarter of bhatarbandh pargana was at Rajshahi. After banned Permanent settlement law the bhatarbandh pargana headquarter transferred to Nageshwari sub district of Kurigram district. Wood made half part of the Landlord house is now lost. Now another half part of the house use as a union council office.\n"
+    </string>
+    <string name="chandamari">
+        "Chandamari Mosque: \n"
+        "The Chandamari mosque in Kurigram is an ancient Mughal mosque that has been around for centuries. However, the mosque is falling inexorably into ruin due to acid rain and lack of proper maintenance. The mosque is situated in the village of Chandamari in Chakirpasha union under the Rajarhat Upazila in the district of Kurigram. No one knows the exact year the mosque was built or who built it.\n"
+
+    </string>
+    <string name="naldanga">
+        "Naldanga Zamindar Bari (নলডাঙ্গা জমিদার বাড়ি): \n"
+        "Naldanga Zamindar Bari (নলডাঙ্গা জমিদার বাড়ি) is a very significant historical place of Gaibandha. It was the birth place of Tulshi Lahiri, a great artist, actor as well as writer. Surendrochandro, father of Tulshi Lahiri, decorated this colorful Zamindar Bari. Cheratar is one of the dramatic book of Tukshi Lahiri which is still included in books in the intermediate standard level in Kolkata.\n"
+        "At British period, Naldanga Zamindar Bari was one of the vital center for collecting revenue of North Bengal. Shibchandra and Shomvochandra were the two brothers who first came to Naldanga and founded the Zamindar Bari. \n"
+    </string>
+    <string name="bhitargar">
+    "Bhitargarh Fort: \n"
+    "Bhitargarh Fort was formed a part of the chain of early medieval mud-forts erected mostly by the Muslim rulers at different times to defend their territory against the incursion of their northern Hindu neighbors. The territory east of the Karatoya River was for some time a part of the Ahom kingdom. In the 15th century, this area was included in the Tibeto-Barman Khen dynasty’s territory and served as a sort of buffer state between Assam and the Muslim Kingdom of Bengal.\n\n"
+    "The fortification is now the most important archeological site of the country. The place comes to spot light after a recent excavation program, which has been uncovered some 200 archeological site inside the fort city.\n"
+</string>
+    <string name="banglaband">
+        "Banglabandha Zero Point: \n"
+        "Banglabandha (also spelled Banglabandh) is a major inland port in northern Bangladesh established to provide a trade link with India, Nepal and Bhutan.[1] The three nations are separated by 52 km (32 mi) of Indian territory, known as the Siliguri Corridor. On the Indian side of the border is Phulbari. Border crossing of vehicles between Phulbari and Banglabandha was inaugurated in January 2011.\n"
+    </string>
+    <string name="hadis_park">
+        "Shahid Hadish Park:\n"
+        "Address: Shaheed Hadis Park is a park situated on the western side of the Bangladesh Bank Khulna branch of Khulna City.\n"
+    </string>
+    <string name="khulna_museum">
+        "Khulna Museum: \n"
+        "Khulna Museum is the Divisional Museum in Khulna, situated in the Shibbari Mor/KDA Avenue area at Khulna City. Established by the department of Archaeology in 1998, this museum mainly shows the different earthen and pottery samples. However, there is a gallery to display the mythological characters of Hinduism made by Black Basalt.\n\n"
+        "Ticket:\n"
+        "All Bangladeshi citizens can get entry by paying 20 taka. For foreigners, it is 100 taka.\n\n"
+        "Time Table:\n"
+        "During Winter it is Open from 9 Am to 5 Pm. In the summertime the timetable is from 10 Am to 6 Pm. Lunch brake is from 1 pm to 1:30 Pm. Sunday Closed.\n"
+    </string>
+    <string name="hiron_point">
+        "Hiron Point: \n"
+        "Hiron Point is a protected wildlife sanctuary in the south of the Sundarbans. Sundarbans is the largest mangrove forest in the world. It is located on the west bank of Kunga River in Khulna district which is in the southern part of Bangladesh. Another name of Hiron point is Nilkamal. UNESCO has recognized Hiron point as a World Heritage site.\n"
+        "There is no rest house for the tourists to stay here. But there are two banquet stations in a delightful environment to relax and enjoy. One of those is "Obokash" and the other is "Khanik". \n"
+    </string>
+    <string name="genocide">
+        "Genocide-Torture Archive and Museum :\n"
+        "The main feature of our liberation war is genocide and torture. The Genocides and Torture carried out by Pakistan Army and their collaborators during the liberation war of Bangladesh (East Pakistan) in 1971 can hardly be compared with any other massacre in the world history.\n"
+        "Location:\n"
+        "1971: Genocide-Torture Archive and Museum is located in Khulna City. For 1971: Genocide-Torture Archive and Museum and beyond.\n"
+    </string>
+    <string name="rabi_khulna">
+        "In Fultala Union, Khulna there is a Rabindra Memorial Complex built in memory of the Great Poet Rabindranath Tagore. It was the  house of Rabindranath Tagore’s in-laws, which was converted into a memorial complex after renovation.\n"
+        "Now the two storied building has been decorated and renovated after receiving a government fund and was turned into a museum and photo gallery. Some rare photos of Rabindranath Tagore is showcased here. Some important documents about Tagore’s publications are also displayed here.\n"
+    </string>
+    <string name="khan_jahan">
+    "Hazrat Khan Jahan Ali (RA) was a Muslim preacher and local ruler of Bagerhat. His other names include Ulugh Khan, Khan-E-Azam etc. Every day thousands of devotees come from different parts of the country and abroad to visit the shrine.\n"
+    "Location:/n"
+    "It is located on the northern bank of the so-called Thakur dighi. After reaching Bagerhat, take local transport to reach this historical place.\n"
+</string>
+    <string name="chandra">
+    "Chandra Mahal Eco-Park: \n"
+    "Chandra Mahal Eco Park is located at Chandra-Mahal Road, Bagerhat. This is the only amusement park listed in Bagerhat. There's also eighteen attractions listed in this district in other categories.\n"
+</string>
+    <string name="kotka_beach">
+        "Kotka Beach:\n"
+        "Sutka beach located in the south east corner of the Sundarbans. One of the attractive attractions of beautiful forest is the Katka. Located about 90 kilometers away from Mongla port and the main center of the Sundarbans East Bay.\n"
+    </string>
+    <string name="bagerhat_museum">
+    "Bagerhat Museum: \n"
+    "In 2001, after receiving a fund from the UNESCO, a museum has built by the government at Bagerhat in the UNESCO world heritage site “Shat Gombuj Mosque” complex. It is now being used as a learning center to let people aware about the ancient city named Khalifatabad established by Khan Jahan Ali which is known as Bagerhat today.\n"
+    " During the summer time, it is opened from 9 am to 6 pm for the visitors. The entry fee for the complex is 20 taka for Bangladeshi citizens and it is also the ticket of the museum, there is no separate ticket is needed.\n"
+    "Location: \n"
+    "From Bagerhat ride any bus going to Khulna or hire an auto and drop down in front of Shat Gonbuj Mosque.\n"
+</string>
+    <string name="modhu">
+    "Michael Madhusudan Dutta (Bengali: মাইকেল মধুসূদন দত্ত):\n"
+    "Michael Madhusudan Dutta (Bengali: মাইকেল মধুসূদন দত্ত 25 January 1824 – 29 June 1873) was a popular 19th-century Bengali poet and dramatist. He was a pioneer of Bengali drama.[1] His famous work Meghnad Bodh Kavya, is a tragic epic. It consists of nine cantos and is exceptional in Bengali literature both in terms of style and content. He also wrote poems about the sorrows and afflictions of love as spoken by women.\n"
+    "Locaation: \n"
+    "Michael Madhusudan Dutt Memorial is located at Sagardari, Jessore. \n"
+</string>
+    <string name="jass">
+        "Location: \n"
+        "Located just 2.5 kilometers from Jessore city, "Jess Garden Park" situated in the beautiful, clean and relaxed environment on the west side of Bahadurpur Secondary School.\n"
+    </string>
+    <string name="shiv_tem">
+    "Location: \n"
+    "Eleven Shiv Temple Complex is located at Baghutia, Abhaynagar, Jessore.\n"
+</string>
+    <string name="benapol">
+        "Benapol Border: \n"
+        "Benapole (Bengali: বেনাপোল) is a township in Sharsha Upazila in the Jessore District of Bangladesh. The Petrapole Customs station of India is situated across the border and since 1971 (some sources say 1947), a large number of people have travelled between Bangladesh and India through Benapole Customs / Land port station.\n"
+    </string>
+    <string name="rabi_kustia">
+        "Shilaidaha Kuthibari:\n"
+        "Rabindranath Tagore (1861-1941) frequently visited and used to stay in Shilaidaha Kuthibari in connection with the administration of his Zamindari and enriched Bengali literature through his quality writing during that time. He wrote many memorable poems during his stay here. He built it as his residence/office for collecting revenue as a zamindar, from local peasants. It is now a museum under Archaeology department of Ministry of Cultural Affairs.\n"
+        "Location:\n"
+        "As it is located in Kumarkhali Upazila of Kushtia district. After reaching in Kushtia, take local transport to reach that place.\n"
+    </string>
+    <string name="lalon">
+        "Lalon Shah:\n"
+        "The Shrine of Lalon Fakir is located in Kushtia district of Khulna division close to Kushtiya Railway Station. Lalon Fakir was born in 1774 and died in 1890. The details of Lalon’s early life are debatable and not possible to verify. He had many qualities, a spiritual leader, mystic poet, reformer and composer of Baul songs.\n"
+
+    </string>
+    <string name="mujibnagar">
+        "Mujibnagar (Bengali: মুজিবনগর), formerly known as Baidyanathtala (Boiddonathtola) and Bhoborpara, is a town in the Meherpur District of Bangladesh.[2] The Provisional Government of Bangladesh was formed on 10 April 1971, however, sworn in on 17th April 1971 in this place by the elected representatives of the Bengalees (mostly belongling to Awami League), that led the Bangladesh Liberation War, who were leading the guerrilla war for the independence of Bangladesh (then East Pakistan) from Pakistan in 1971.[3] The place was renamed Mujibnagar by the proclamation of independence.\n"
+    </string>
+    <string name="amjhupi">
+        "Amjhupi Nill Kuthi: \n"
+        "Location:\n"
+        "Aamjhupi Neel Kuthi is located at Aamjhupi, Meherpur Sadar, Meherpur. \n"
+    </string>
+    <string name="shitaram">
+        "Raja Sitaram Ray (1658–1714) was a sovereign king. Raja Shitaram Palace has now almost been destroyed, but holds the history of many years in every corner of its building. He rebelled against the Mughal Empire and established a short-lived sovereign Hindu dominion in Bengal. In his early life he initiated Shaktism as he came from a Shakta family. He set up capital in Mohammadpur where the palace is located and established a Dashabhuja Temple there.\n"
+        "Location:\n"
+        "It is located in Mohammadpur Upazila of Magura district. After reaching in Magura District, you can take any local transport to Mohammadpur Upazila to visit that ancient palace.\n"
+    </string>
+    <string name="sultan">
+        "S.M Sultan Memorial:\n"
+        "S. M. Sultan was one of the greatest personalities in this district. His full name is Sheikh Mohammed Sultan (10 August, 1923 to 10 October, 1994), was a Bangladesh avant-garde artist who worked in painting and drawing. His fame rests on his striking depictions of exaggeratedly muscular Bangladeshi peasants engaged in the activities of their everyday lives. For his achievement in fine arts, he was awarded with the Ekushey Padak in 1982.\n"
+        "Location:\n"
+        "It is located in Narail district of Khulna division. After reaching Narail you may take van or rickshaw from anywhere from the town to come here.\n"
+    </string>
+    <string name="narail_palace">
+    "Location: \n"
+    "Narail Palace is located at Murapara, Narail Sadar, Narail.\n"
+</string>
+    <string name="mongla">
+        "Mongla Port: \n"
+        "The Mongla Sea Port is protected by the Sundarbans (the largest mangrove forest- declared as ‘World Heritage’ in 1997 by the UNESCO). It was formerly located at Chalna, about 11 miles (18 km) upstream on the Pashur River, but it is now located 48 km south of Khulna city, as established on 11 December 1954. The Port is surrounded as well as well protected by the Sundarban mangrove forest. The name Mongla originated from Mongla River presently known as Mongla Nulla.\n"
+        "How to go: \n"
+        "It is located in Mongla Upazila of Bagerhat district. It was situated on the south western part of the country at the confluence of Pussur River and Mongla Nulla approximately 71 nautical miles (131 Km.) upstream of the Bay of Bengal. After reaching Bagerhat you may use bus or private car to reach there.\n"
+
+    </string>
+    <string name="shah_jamal">
+        "হযরত শাহ জামাল (রহঃ) মাজার শরীফ: \n"
+        "The main place of interest in this district is the tomb of Hazrat Shah Jamal (R). It is located near the office of the Deputy Commissioner and the Police Super of the district along the banks of river Brahmaputra in Jamalpur town. There is a beautiful mosque adjacent to the tomb, where people come to perform Salat and pray.\n"
+        "Location:\n"
+        "Shrine of Hazrat Shah Jamal (Rh) is located in Jamalpur Sadar, Jamalpur.\n"
+    </string>
+    <string name="shah_kamal">
+        "হযরত শাহ কামাল (রহঃ) মাজার শরীফ: \n"
+        "Location: \n"
+        "Shrine of Hazrat Shah Kamal (Rh) is located in Melandah , Jamalpur.\n"
+    </string>
+
+    <string name="large_text">
+        "Bangladesh Military Museum (বাংলাদেশ সামরিক জাদুঘর)\n\n"
+
+        "Brief:\n"
+        "After the liberation war in 1971, a complete military force was established by the Bangladeshi Government. To let people know about the glorious history of Bangladesh Military forces, the military museum was open in 2004. It is located in Bijoy Sharani under the Sher-e-Bangla nagar thana area. It is situated beside the Novo Theater. It is open for all and no ticket money is needed.\n"
+        "Inside the hall there are two large rooms and in the outside ground you will see 26 different models tanks and others armored vehicles."
+        "\n\n"
+        "Open and Close Time: \n"
+        "The time schedule of this Bangladesh Military Museum: From Saturday to Thursday:10 AM- 6 PM, Friday: 3-6 PM, Wednesday: Off.
+Bangladesh Military Museum is closed on Government holidays without 16th December and 26th March"
+        "\n\n"
+        "How To Go:\n"
+        "There are several counter service and local service buses available from different location of Dhaka city. If you are moving from Uttara area or Farmgate area via Mohakhali just get ready to step off at Bijoy Sharani of Sher-e-Bangla nagar."
+    </string>
+    <string name="title_activity_national_museum">National Museum</string>
+    <string name="national_museum_text">
+        "The Bangladesh National Museum (বাংলাদেশ জাতীয় যাদুঘর) \n\n"
+        "Brief:\n"
+        "Bangladesh National Museum, formally inaugurated on 17 November 1983, is one of the largest museums in South Asia. Dhaka Museum, formally inaugurated on 7 August 1913, was its forerunner. Bangladesh National Museum is devoted to archaeology, classical, decorative and contemporary art, history, natural history, ethnography and world civilization."
+        "\n\n"
+        "Opening and Closing Time: \n"
+        "Friday 3–8PM (Hours might differ) \n"
+        "Saturday 10AM–5PM \n"
+        "Sunday 10AM–5PM \n"
+        "Monday 10AM–5PM \n"
+        "Tuesday 10AM–5PM \n"
+        "Wednesday 10AM–5PM \n"
+        "Thursday Closed \n\n"
+        "Location: Shahbag, Dhaka\n"
+        "How To Go: \n"
+        "There are several counter service and local service buses available from different location of Dhaka city. If you are moving from Uttara area or Farmgate area via Mohakhali just get ready to step off at Shahbag. \n\n"
+        "Price of Tickets: \n"
+        "For 3-12 Age, tk 5/person \n"
+        "For above 12 Age, tk 10/person \n"
+        "For Foreigners,tk75/person \n"
+
+    </string>
+    <string name="title_activity_air_force_museum">BAF Museum</string>
+    <string name="air_force_text">
+        "Bangladesh Air Force (BAF) Museum (বিমান বাহিনী জাদুঘর)\n\n"
+        "Brief:\n"
+        "Bangladesh Air Force (BAF) museum is set up to showcase its glorious past. BAF Museum was established in 17 June 1987. Various artifacts including the helicopter and aircrafts used in liberation war are displayed here. The museum is located on the east side of the IDB Bhaban (building). In other words this museum is adjacent to old airport at Tejgaon which is a air force base now.\n"
+        "Besides the display of air force artifacts a food court and souvenir shop is also there.\n\n"
+        "Opening and Closing Time: \n"
+        "Monday to Thursday 02:00pm to 08:00 pm\n"
+        "Friday &amp; Saturday 10:00 pm to 08:00 pm\n"
+        "Weekly holiday: Sunday (For observation of Museum)\n\n"
+        "Location:\n"
+        "BAF Base Bashar, Opposite side of IDB Bhaban, Tejgaon, Dhaka.\n\n"
+        "How To Go: \n"
+        "There are several counter service and local service buses available from different location of Dhaka city. If you are moving from Uttara area or Farmgate area via Mohakhali just get ready to step off at IDB Bhaban Agargaon \n\n"
+        "Price of Tickets: 20 Taka\n\n\n"
+    </string>
+    <string name="title_activity_money__museum">Taka Museum</string>
+    <string name="money_museum_text">
+        "Bangladesh Taka Museum (টাকা জাদুঘর)\n\n"
+        "Brief:\n"
+        "A museum, first of its kind in Bangladesh, will help young people to know about the currency’s history and its evolution. Not only the history of Money, this museum will also help people to get acquainted with the lifestyle, education, culture and various aspects of archaeological evolution of human civilization through coins and currencies of different eras.\n"
+        "The historically significant deposited coins included 48 of the Alauddin Hossain Shah era, 29 of Nasiruddin Nusrat Shah, four of Shamsuddin Ilyas Shah, five of Sikandar Shah, three of Giasuddin Azam Shah, three of Rukunuddin Barbak Shah, two of Nasiruddin Mahmud, one of Mahmud Shah, one of Shahjahan, two of Badsha Alamgir , one of Islam Shah and one of the Shah Alam era.\n\n"
+        "Location: \n"
+        "5 Mirpur Rd, Dhaka.\n\n"
+        "How to go: \n"
+        "You can come to see this Museum from different locations of Dhaka City. There are so many buses moving towards Mirpur-2. It’s few kilometer south-west from Sher-e-Bangla National Stadium. You can take buses from Syedabad bus stand or Mohakhali bus stand or Farmgate bus stand to visit this Unique Museum of Bangladesh.\n\n"
+        "Opening and Closing Time: \n"
+        "Saturday to Wednesday 11AM–5PM\n"
+        "Friday 4PM–7PM\n"
+        "Thursday Closed\n\n"
+        "Price of Tickets: Free.\n\n\n"
+
+    </string>
+    <string name="title_activity_libaration_museum">Libaration War Museum</string>
+    <string name="libaration_text">
+        "\n"
+        "Bangladesh Police Liberation War Museum\n\n"
+        "Brief:\n"
+        "Bangladesh Police Liberation War Museum is a museum that commorates the contributions of Bangladesh Police to the Bangladesh Liberation War. It is located at Rajarbagh Police Lines on 1.5 bigha (216,000 sq ft) land area and was established on 24 March 2013. It contains various materials and symbols which denote the sacrifice of police soldiers during the War. It has a research unit, the unit identified police officer killed in British Council premises during the Bangladesh Liberation war.\n\n"
+        "Location: \n"
+        "Rajarbagh Police Lines School and College, Dhaka, Bangladesh.\n\n"
+        "Opening and Closing Time: \n"
+        "Thursday - Tuesday 10 A.M. - 5 P.M \n"
+        "Weekend : Wednessday\n"
+        "Contact:\n"
+        "Mobile : 01769-693523, 01769-694641 \n"
+        "Telephone : 02-8301254 \n\n\n"
+    </string>
+    <string name="lalbag">
+        "Lalbagh Fort (also Fort Aurangabad) is an incomplete 17th century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh. The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah who was son of Emperor Aurangzeb and later emperor himself. His successor, Shaista Khan, did not continue the work, though he stayed in Dhaka up to 1688.\n\n"
+        "Address: Lalbagh Rd, Dhaka\n"
+        "Opening and Closing Time: \n"
+        "Friday 9AM–5 PM \n"
+        "Saturday 9AM–5PM \n"
+        "Thursday 9AM–5PM \n"
+        "Monday 2PM–5PM \n"
+        "Tuesday 9AM–5PM \n"
+        "Wednesday 9AM–5PM \n"
+        "Sunday Closed.\n\n"
+    </string>
+    <string name="sritysoudho">
+        "National Martyrs’ Memorial (Bengali: জাতীয় স্মৃতি সৌধ Jatiya Smriti Saudha) is the national monument of Bangladesh, set up in the memory of those who died in the Bangladesh Liberation War of 1971, which brought independence and separated Bangladesh from Pakistan. The monument is located in Savar, about 35 km north-west of the capital, Dhaka. It was designed by Syed Mainul Hossain.\n\n"
+        "Plans for the monument were initiated in 1976. Following the site selection, road and land development, a nationwide design competition was held in June,1978. Following evaluation of the 57 submissions, Syed Mainul Hossain's design was chosen. The main structure and the artificial lake and other facilities were completed in 1982. It was Inaugurated at 16 December 1982.\n\n"
+    </string>
+    <string name="ahsan">
+        "Ahsan Manzil was the official residential palace and seat of the Nawab of Dhaka. The building is situated at Kumartoli along the banks of the Buriganga River in Dhaka, Bangladesh. Construction was started in 1859 and was completed in 1872.\n"
+        "Address: 2/3, Islampur Rd, Dhaka\n"
+        "Opening and Closing Time: \n"
+        "Friday 3PM–8 PM \n"
+        "Saturday 10.30AM–5.30PM \n"
+        "Thursday closed \n"
+        "Monday 10.30AM–5.30PM \n"
+        "Tuesday 10.30AM–5.30PM \n"
+        "Wednesday 10.30AM–5.30PM \n"
+        "Sunday 10.30AM–5.30PM \n"
+    </string>
+    <string name="shundarban">
+        "The Sundarbans (Bengali: সুন্দরবন Shundorbôn [ˈʃundorbɔn] lit. "The beautiful forest") is a vast forest in the coastal region of the Bay of Bengal. Located in the delta region of Padma, Meghna and Brahmaputra river basins, this unique forest extends across Khulna, Satkhira, Bagerhat districts of Bangladesh and South 24 Parganas, North 24 Parganas districts of West Bengal, India. The Sundarbans contain the world's largest coastal mangrove forest.\n"
+        "The Bangladeshi and Indian parts of the Sundarbans, while in fact adjacent parts of the uninterrupted landscape, have been listed separately in the UNESCO World Heritage List: as The Sundarbans and Sundarbans National Park, respectively.\n"
+        "The Sundarbans flora is characterised by the abundance of sundari, gewa, goran and keora all of which occur prominently throughout the area. The region is also known to contain numerous wildlife species, birds and reptiles, including Bengal tiger, chital, crocodile, snakes many of which are considered endangered.\n\n"
+    </string>
+    <string name="shatgumbuj">
+        "The Sixty Dome Mosque (Bengali: ষাট গম্বুজ মসজিদ Shaṭ Gombuj Moshjid; more commonly known as Shait Gambuj Mosque or Saith Gunbad Masjid), a UNESCO World Heritage Site, is a mosque in Bangladesh, the largest in that country from the Sultanate period. It has been described as "the most impressive Muslim monuments in the whole of the Indian subcontinent.\n\n"
+        "Location:\n"
+        "It is located in Bagerhat district in southern Bangladesh which is in Khulna Division. It is about 3 miles far from the main town of Bagerhat. Bagerhat is nearly 200 miles away from Dhaka which is the capital of Bangladesh.\n\n"
+    </string>
+    <string name="Zoo">
+        "Bangladesh National Zoo, is a Zoo located in the Mirpur section of Dhaka, the capital city of Bangladesh.\n"
+        "Number of animals: 2,150 and Number of species: 191 \n"
+        "Address:  Zoo Road, Mirpur, Dhaka\n"
+        "Opening and Closing Time: \n"
+        "Friday 9AM-6PM \n"
+        "Saturday 9AM-6PM \n"
+        "Monday 9AM-6PM \n"
+        "Tuesday 9AM-6PM \n"
+        "Wednesday 9AM-6PM \n"
+        "Thursday closed \n"
+        "Sunday closed \n"
+    </string>
+    <string name="sangsad">
+        "Jatiya Sangsad Bhaban or National Parliament House, is the house of the Parliament of Bangladesh, located at Sher-e-Bangla Nagar in the Bangladeshi capital of Dhaka. Designed by architect Louis Kahn. \n"
+        "Address:  Sher-e-Bangla Nagar, Dhaka\n"
+        "Opening and Closing Time: \n"
+        "Not allowed to go inside of The Parliament House. \n "
+    </string>
+    <string name="starMosque">
+    "Star Mosque, is a mosque located in Armanitola area, Dhaka, Bangladesh. The mosque has ornate designs and is decorated with motifs of blue stars. It was built in the first half of the 19th century by Mirza Golam Pir. \n"
+    "Address: Abul Khairat Road, Armanitola, Dhaka. \n"
+    "Number of domes: 5\n"
+    "Number of minarets: 4\n"
+</string>
+    <string name="shahid_minar">
+        "The Shaheed Minar is a national monument in Dhaka, Bangladesh, established to commemorate those killed during the Bengali Language Movement demonstrations of 1952 in then East Pakistan.\n"
+        "Open 24 hours \n"
+        "Architect: Hamidur Rahman \n"
+        "Address: Near Dhaka Medical College Gate, Polashi, Dhaka.\n"
+    </string>
+    <string name="fantasy">
+    "Theme park with rides for all ages, water features and live entertainment plus dining and shopping.\n"
+    "Address: Ashulia Highway, Jamgora, Savar, Dhaka\n"
+    "Open everyday 11AM-8PM \n"
+</string>
+    <string name="Liberation_War_Museum">
+        "The Liberation War Museum is a museum in Sher-e-Bangla Nagar, Dhaka, the capital of Bangladesh, which commemorates the Bangladesh Liberation War that led to the independence of Bangladesh from Pakistan.\n"
+        "Address: 5 Segun Bagicha Rd, Sher-e-Bangla Nagar, Dhaka.\n"
+    </string>
+    <string name="rose_garden">
+        "The Rose Garden Palace is a mansion and garden in Old Dhaka. Built in the late 19th century, it became birthplace of the Awami League in 1949, when East Bengali liberal and social democrats converged in Dhaka to form an alternative political force against the Muslim League in Pakistan.\n"
+        "Location: \n"
+        "The Rose Garden Palace is situated at Tikatuli near the Baldha Garden which is in Gopibug area. The exact location is at the K.M Das Lane of Tikatuli.\n"
+
+    </string>
+    <string name="armenian_church">
+        "The Armenian Church is a historically significant architectural monument situated in the Armanitola area of old Dhaka, Bangladesh. The church bears testimony to the existence of a significant Armenian community in the region in the 17th and 18th centuries.\n"
+        "Address: Opposite Mitford Hospital, 218 Mitford Rd, Dhaka.\n"
+    </string>
+    <string name="novo_theater">
+    "Bangabandhu Sheikh Mujibur Rahman Novo Theatre is a planetarium on Bijoy Sharani Avenue of Tejgaon area in Dhaka, Bangladesh.\n"
+    "Address: Bijoy Sarani, Dhaka\n"
+    "Opening and Closing Time: \n"
+    "Friday 2PM-7.30PM \n"
+    "Saturday 10.30AM-6.30PM \n"
+    "Monday 10.30AM-6.30PM \n"
+    "Tuesday 10.30AM-6.30PM \n"
+    "Wednesday closed \n"
+    "Thursday 10.30AM-6.30PM \n"
+    "Sunday 10.30AM-6.30PM \n"
+    "Founded: September 5, 2004 \n"
+</string>
+    <string name="moinot_ghat">
+        "Adventurous people love backpacking to remote areas. If you want to witness the mesmerizing ambiance, melodious sound of the water wave, sunrise, and sunset, you can have a short trip to Moinot Ghat. It’s located in Dohar Upazila of Nawabgonj near Dhaka.\n"
+    </string>
+    <string name="hussani_dalan">
+        "The Hussaini Dalan was originally built during the later half of the Mughal rule in Dhaka. It was built as the Imambara or house of the Imam of the Shia Muslim community.\n"
+        "openig and closing: everyday 7AM - 9PM\n"
+    </string>
+    <string name="shisu_mela">
+        "Shishu Mela is leading manufacturing company of amusement rides in Bangladesh since last 22 year's. Location Of this place is in Mirpur road, Shyamoly. Shishu Mela is popular by its own name.\n"
+    </string>
+    <string name="military_museum">
+        "After the liberation war in 1971, a complete military force was established by the Bangladeshi Government. To let people know about the glorious history of Bangladesh Military forces, the military museum was open in 2004.\n"
+        "It is open for all and no ticket money is needed.\n"
+        "The time schedule of this Bangladesh Military Museum: From Saturday to Thursday:10 AM- 6 PM, Friday: 3-6 PM, Wednesday: Off.\n"
+        "Bangladesh Military Museum is closed on Government holidays without 16th December and 26th March.\n"
+        "Address: Bijoy Sharani, Sher-e-Bangla nagar, Dhaka.\n"
+    </string>
+    <string name="bss_park">
+        "Bangabandhu Sheikh Mujib Safari Park is a safari park in Gazipur, Bangladesh. It was inaugurated on 2013. The park is divided into 5 major sections. They are the Core Safari, Safari Kingdom, Biodiversity Park, Extensive Asian Safari Park and Bangabandhu Square.\n"
+        "Address: Safari Park Rd, Sreepur\n"
+        "Opening and Closing Time: everyday 9AM - 5PM Open\n"
+        "Thursday Closed\n"
+    </string>
+    <string name="bhawal">
+        "Bhawal National Park is a nature reserve and the national park of Bangladesh.\n"
+        "Address: পরাজেন্দ্রপুর বাস স্ট, Dhaka - Mymensingh Hwy, Gazipur.\n"
+        "Opening and Closing Time: everyday 8AM - 5PM Open\n"
+        "Area: 19.39 mi²\n"
+    </string>
+    <string name="nuhash">
+        "Nuhash Polli houses a large number of sculptures crafted by local sculptor Asaduzzaman Khan. Ghost- shaped and frog-like sculptures have been made to amuse children. A tree house is a delight for children.Ahmed enjoyed rainfall and moonlit nights. He created a room called “Brishti Bilash’ from where he could observe the pattering rain.\n"
+        "Address: Nuhash Polli is located around 8 km east of Hotapara bus-stand of Dhaka-Mymensingh Road. You can take buses from Dhaka or Mymensingh like provati-bonosri through Sripur, Maona, Kapasia to Hotapur. Fare is around 50-70 taka per person. You can get to Nuhash Polli from Hotapara bus stand by tempu/richshaw/baby-taxi, fare is 30 taka for tempu, 50-60 taka for rickshaw and 100-120 taka for taxi.\n"
+        "It open Everyday from 8AM - 5PM\n"
+    </string>
+    <string name="shohag">
+        "shohag palli park and resort is ready with guest facilities and amenities. Touch of green will make you life relaxed in natural serenity . set inside the natural forest unique feature of the resort is free from pollution of sound and dust. Shohag palli is just 45 km north of Dhaka city. From the Chandra bazaar point on the joydevpur kalaikair highway from that point 3 km north jungle road will kiss the gates of shohag palli.\n"
+        "Address: Shohagh Palli Picnic Spot, Kaliakair Upazila, Gazipur, Dhaka.\n"
+        "Open Everyday from 9AM - 9PM\n"
+    </string>
+    <string name="jasim_uddin">
+    "Jasim Uddin is the famous poet from Bangladesh, especially for his dedication to write poems about the folklore culture. He is the only poet from the country whose poems depicts the beauty of the villages and people of villages. The house of our beloved poet is situated by the river “Kumar”.\n"
+    "Address: After reaching in Faridpur District, take any local transports to visit that place named Tambulkhana village.\n"
+    "Open everyday from 9AM - 5 PM \n"
+</string>
+    <string name="matuapur">
+        "Mathurapur Deul, located at the Madhukhali Thana of the Faridpur district. Local people used to call this as Deul. If you wish to visit the Deul, you have to reach the Madhukhali Thana. This Deul is around 90 feet tall, and with highly ornate terracotta at the wall of it. The outer side wall of the Deul is comprises with some small “murti”(statue) using mud.\n"
+        "Address: If you wish to visit the Deul, you have to reach the Madhukhali Thana. If you are from Faridpur town, you can take bus from the New Bus Stand of the town. There are lots of local bus that runs on that path.\n"
+    </string>
+    <string name="faridpur_museum">
+        "Address: Rajendra College Rd, Faridpur \n"
+    </string>
+    <string name="munsi">
+        "Birshreshtha Munshi Abdur Rouf Library and Museum is a museum and library opened in May 28, 2008 in Roufnagar (formerly Salamatpur), Faridpur District, Bangladesh, the home village of Munshi Abdur Rouf, in whose honour it is named. It is one of ten memorial museums opened in 2008 named after the seven Bir Sreshtho recipients and three language martyrs.\n"
+    </string>
+    <string name="sonarga">
+        "Sonargaon was a historic administrative, commercial and maritime centre in Bengal. Situated in the centre of the Ganges delta, it was the seat of the medieval Muslim rulers and governors of eastern Bengal.\n\n"
+        "Address: Go to Gulistan bus stand at Dhaka, take a bus to Moghrapara. Bus service called 'Meghla' goes to Mograpara. From Mograpara, take a Rickshaw to Sonargaon Museum. Bus service to Sonargaon also available from Chasara at Narayanganj.\n"
+    </string>
+    <string name="sonarga_museum">
+        "Address: Sonargaon, Narayanganj\n"
+        "Open everyday from 7AM - 5PM and Monday Closed. \n"
+    </string>
+    <string name="tajmahal">
+        "Tajmahal of Bengal (বাংলার তাজমহল) is a scaled copy of the original Tajmahal (a Mughal mausoleum located in Agra, India) located 10 miles east of Sonargaon. Unlike the original, work on the building took only five years. Ahsanullah Moni, a wealthy Bangladeshi film-maker, announced his ‘Copycat version of Tajmahal’ project in December 2008. The project cost about USD$ 56 Million, and was built to the northeast of Capital Dhaka. This caused complaints from Indian officials that copying Historical Monument is Illegal.\n"
+        "Address: If you start your journey from Gulistan Bus stop of Dhaka, then you can follow Dhaka-Chittagong highway, After reaching at Madanpur, turn Left to Gazipur Road, then Perabo where Banglar Tajmahal is located.\n"
+        "Entry Fee Only Tk. 50 / per person.\n"
+        "Opens everyday from 9AM-7PM \n"
+    </string>
+    <string name="Zainul_Museum">
+        "Address: Sonargaon Road, Sonargaon, Narayanganj, Dhaka.\n"
+        "Opens Everyday 9AM-5PM"
+    </string>
+    <string name="panam">
+        "Panam Nagar (পানাম নগর), ancient Painam, a locality now in Sonargaon upazila of Narayanganj district. It is about 2.5 kilometre to the north of Dhaka-Chittagong highway at Mograpara point. It is said to have been the site of Hindu capital city of Sonargaon emerging in the seventh decade of the thirteenth century. Panam still possesses three brick bridges belonging to the Mughal period: Panam Bridge, Dalalpur Bridge and Panamnagar Bridge."
+        "Address: You can rich that place using bus from Dhaka (Gulistan). This will take you around 1 hour to reach at the place. You have to get down from the bus at Mograpara Crossing. From the crossing, you have to take a rickshaw, and have to tell the puller to drop you at Panam Nagar. This will require around 20 taka for the lift.\n"
+    </string>
+    <string name="hajiganj_Fort">
+        "Hajiganj Fort also known as Khizirpur fort, situated at Hajiganj locality of Narayanganj, Bangladesh, On the western bank of Shitalakshya at the point where the Buriganga discharged into the Shitalakshya.\n"
+        "Address: Hajiganj Fort is located at the center of the Narayanganj town. You shouldn’t face any difficulties to locate this fort. At first,Come to the Chashara (চাষাড়া) of Narayanganj using BRTC or any similar buses departing from Gulistan. Fare is around 40 taka per person. You can use train too. From Chashara take a rickshaw and ask the driver to drop you at the Hajiganj Fort. Local people know this as Kella instead of Dugo/Fort.\n"
+    </string>
+    <string name="sonakanda_Fort">
+        "Sonakanda Fort (সোনাকান্দা দুর্গ) a Mughal river-fort located on the eastern bank of the Shitalakshya (শীতলক্ষ্যা) at port area. A group of river forts, constructed by the Mughals, guarded the water routes to Dhaka and other places of strategic importance and the Sonakanda Fort is one of them. The fort, under the protection of the Department of Archaeology and Museums, has been restored and repaired several times. The defensive walls and the massive artillery platform are still in existence.\n"
+        "Address: irst of all Come to the Chashara of Narayanganj using BRTC or any similar buses from Gulistan. Its around 40 taka per person. Take a rickshaw and come to the Bondor Ghat, also known as Narayanganj Launch Terminal. Its around 15-20 taka Rickshaw fare. Cross the river using the boats, per person 1-2 taka. Take a rickshaw and ask the driver to drop you near at the Kella.\n"
+    </string>
+    <string name="piramid">
+        "The Rajmoni Pyramid (Bengali: রাজমনি পিরামিড) of Bangladesh\n"
+        "Address: Rajmoni Pyramid, Perabo, Sonargaon, Narayanganj, Dhaka.\n"
+    </string>
+    <string name="murapara_jamidar">
+        "Murapara Zamindar Palace was built during 1890 by Ramratan Banarjee. He was a trusted person of a British Indigo Planter during the British Colonial period. it just lost all it’s heritage. But still you can visit the palace for your weekend or any other holidays. There are two large ponds loacted at the palace premise. One at the front side and another one at the back side. In addition there is an old temple available inside the palace premise. It’s just in front of the pond. \n"
+        "Address: If you are from dhaka, you have to use the Rupganj road from the Dhaka Chittagong highway. When you are at the Bhulta bazar, just hire a rickshaw or ride on a CNG- auto rickshaw to Murapara college.\n"
+    </string>
+    <string name="monumiya">
+    "Monu Mia Zamindar House, a massive Palace with two conjunctive complex located very near to the Ghorashal Bus-stand of Narsingdi. It was reconstructed in the 1335 BE (Bengali Era) by a land lord of this region named Sazda Mia. This Zamindar House is one of the greatest examples of Classical Colonial Architecture in Bangladesh.\n"
+    "Address: If anybody wants to go to this Zamindar House,then it would be wise to ride on a Mohakhali-Narsingdi bus rather riding on a Gulistan-Narsingdi Bus. Mohakhali-Narsingdi bus runs via Kaliganj of Gazipur District. After crossing the Christian mission of Kaliganj on the way to Narsingdi, It’s just one 20 minutes road from there. As soon as bus reached at Ghorashal Bridge over the shitolakkhya river, You will have to get ready to step off at Ghorashal Bus-stand. From the Bus-stand it is just 10 minutes away by foot.\n"
+</string>
+    <string name="motiur">
+        "Bir Shreshtha Matiur Rahman Memorial Museum is located at Raipura, Narsingdi. This is the only museum listed in Narsingdi.\n"
+        "Address: Raipura, Narsingdi"
+    </string>
+    <string name="dream">
+        "Dream Holiday Park, a World-class theme park has been set up in the Narsingdi district near the capital Dhaka. This park is situated near the Dhaka-Sylhet highway in Sadar upazila of Panchdona Chaitab.\n"
+        "The Water Park offers most exclusive adventure rides giving the excitement of sea life and allowing enjoyment of every moment with DJ music.\n"
+        "Park activities on water include: jet fighting, speed boating, swan boating, boating below Bengal Bridge, Sydney Bridge and London Bridge. For kids there are Swing Chairs, Bull Ride and Gorzila and Train in the Air running to and from Chaitaba Railway Station. The Entry Ticket price is Tk 200 including VAT.\n"
+        "Address: Dream Holiday Park is situated on the roadside of Dhaka-Sylhet highway at Panchdona, Chaitaba in the district of Narsingdi. Trippers to Dream Holiday Park can take buses from Saydabad/Jatrabari Bus Terminal, Kamalapur Bus Terminal, Mohakhali and Gulistan Bus Terminal.\n"
+    </string>
+    <string name="single_dome">
+        "One of the great example of deteriorations of an Archaeological site in Narsingdi district is ‘Single domed Mosque and Tomb of Shah Mansur’ located at Kumradi, Shibpur upazila. It was built in eighteenth century by a Muslim saint named Shah Mansur. In course of time, the existence of the mosque is totally replaced by a new built Madrasa. But, still now the remaining of ‘Tomb of Shan Mansur’ is existing, although it is hard to assume how the original structure was.\n"
+        "Address: You can ride on a Dhaka-Bhairab Bus from Mohakhali, Airport, Abdullahpur and Tongi Bus stand. After reaching at Itakhola Bus stand of Shibpur thana, Narsingdi; Then you may step off and ride on a CNG or Auto Rickshaw to reach there.\n"
+    </string>
+    <string name="bhai_girish">
+        "Girish Chandra Sen also known as Bhai Girish Chandra Sen ( ভাই গিরিশ চন্দ্র সেন), a Brahmo Samaj missionary, was the first person to complete the translation of the Qur’an into Bengali in 1886. It was his finest contribution to Bengali literature. Born in the village of Panchdona of Narsingdi in 1835 in the famed Dewan Baidya clan, he learnt Persian and Sanskrit in early life.\n"
+        "The plasters on the walls of this two floor house have almost completely fallen off, baring the brick work, which is covered in a thick moss. The ceilings on both the floors have entirely caved in. Trees have grown all over the walls, thereby creating large cracks. The wood work from doors and windows is completely stolen. \n"
+        "Address: Bhai Girish Chandra Sen’s Old House is located at Panchdona of Narsingdi Sadar Upazila. A little further from the Panchdona crossing, on the way to Narsingdi, one cannot miss the light blue sign, pointing to the house of Girish Chandra Sen.\n"
+
+    </string>
+    <string name="mosaraf">
+        "Mir Mosharraf Hossain (মীর মশাররফ হোসেন) was a famous Bengali language novelist, playwright and essayist in 19th century. He is popular among the people for his famous novel Bishad Sindhu (বিষাদ সিন্ধু). It is a novel based on the tragic death of the grandchildren of Holy Prophet Mohammad. The incidents behind “Ashura” is being well written in here. He is considered as the first novelist to emerge from the Muslim society of Bengal. He was born and brought up at Lahinipara in Kushtia District.\n"
+        "Address: From “Chourhash” you need to take a local Auto / CNG heading to Kumarkhali. Drop down at the place called “bridge” where Mir Mosharraf Hossain bridge starts. Then you will find road sign directed to the memorial complex.\n"
+    </string>
+    <string name="kuthi_zamidar">
+        "Address: Kuthi Pachuria Zaamindar Bari is located at Panchuria , Rajbari Sadar, Rajbari.\n"
+    </string>
+    <string name="jor_bangla">
+        "Jor-bangla, also called char-chala or yorubangala, is a style of temple architecture that arose in Bengal. The style involves two structures that resemble the traditional village huts of the region, one that serves as a porch, in front of the other that serves as a shrine.\n"
+        "Address: Jor Bangla Temple is located at the main town of Pabna District. After reaching at Pabna, take rickshaw to reach this old temple.\n"
+    </string>
+    <string name="fatejangpur">
+        "The fort was built by the Mughal commander Raja Mansingh. When Raja Mansingh attacked Bikrampur, his fellow warriors were defeated by the King Kedar Rai and took refuge in Srinagar. Mansingh sent his troops to rescue them. As a result, a massive battle took place. Kedar Rai got injured in this battle and died. The fort of Mansingh is a mark of the battle. \n"
+        "Address: Fatehjangpur Fort is located at Fatehjangpur, Naria, Shariatpur."
+    </string>
+    <string name="burir_hat">
+        "Burir Hat Mosque (বুড়ির হাট মসজিদ) is the interested Islamic structure in Bangladesh. It is so beautiful that you cannot believe without seeing. Burir Hat is the recognized hat (Bazar) in Shariatpur. It stands Bhedarganj Upazila in Shariatpur. It is the birth place of famous artist Davda Chakraborti.\n"
+        "Address: The Burirhat Mosque is located at Burirhat , Shariatpur Sadar, Shariatpur.\n"
+        "To go Shariatpur Start journey from Dhaka to Mawa Ghat. BRTC, Procesta, Elish, Gungun, Ajmeri bus service are available Dhaka to Mawa Ghat. BRTC bus terminal is Gulistan and fair is 70/-, Procesta bus terminal are Uttora and Rampur and fair 100/-,Elish, Gungun, Ajmari bus terminal is Jatrabari and fair is 80/-. From Mawa Ghat use ferry, sea boat, troler or launce to go Kawrakandi or Majhikandi. . From Kawrakandi or Majhikandi local bus are available to go Shariatpur and fair 80/- or 100/-.\n"
+
+    </string>
+    <string name="modern_fantasy">
+        "This is an amusement park located in Kedarpur union. Here has the largest aquarium of Bangladesh.\n"
+        "Address: Modern Fantasy Kingdom is located at Naria, Shariatpur.\n"
+        "contact: 01715-313326"
+    </string>
+    <string name="haturia_zamidar">
+        "হাটুরিয়া জমিদার বাড়ি, Haturia is the birth place of Zamindar Sekander Ali Chowdhury who was the Recognized Muslim Zamindar in British Period. Haturia is the place in Gosairhat Upazila where once upon a time, there was Stimar Station. The old structure of Haturia Zamindar Bari is now destroyed for lack of caring. \n"
+        "Address: Haturia Zaminder Bari is located in Gosairhat, Shariatpur.\n"
+    </string>
+    <string name="sholakia_eidgah">
+        "Kishoreganj's prime heritage is Sholakia Eidgah, Asia's largest Muslim Eid festival prayer ground with an area of 6.61 acres. About two hundred thousand religious worshipers perform Eid prayer in this Eidgah.\n"
+        "Sholakia Eidgah is located at Sholakia Road, Kishorganj Sadar, Kishoreganj.\n"
+    </string>
+    <string name="jungle_bari">
+        "Jongolbari (জঙ্গলবাড়ী) is mainly a fort that is located at the Jongolbari (জঙ্গলবাড়ী) of Karimganj Upazila (করিমগঞ্জ উপজেলা) of Kishoreganj (কিশোরগঞ্জ). It was the second capital of Isha Khan (ইশা খাঁ). He captured the fort from Lokkhon Shing Hajara (লক্ষন সিং হাজারা) during the battle of Egaro Shindur (এগারো সিন্দুর) with Man Singh (মান সিংহ).\n"
+        "This is known as Jongolbari Durgo (জঙ্গলবাড়ী দুর্গ), Isha Khar Bari (ইশা খাঁর বাড়ী), etc. to the local people. There is a dilapidated building is still available there. A portion of that building is still being used by the decedents from Isha Kha (ইশা খাঁ).\n"
+        "Address: The Jongolbari (জঙ্গলবাড়ী) is mainly located beside the Dewanganj Bazar (দেওয়ানগঞ্জ বাজার). You can easily reach to the Dewanganj bazar (দেওয়ানগঞ্জ বাজার) from Kishoreganj (কিশোরগঞ্জ) town. Here is a simple direction for your help.\n"
+        "1) From the Ekrampur (একরামপুর) of Kishoreganj (কিশোরগঞ্জ) town, come to the Dewanganj Bazar (দেওয়ানগঞ্জ বাজার) using any CNG or Easy bike. It will be 15-20 taka per person. If you reserve the whole vehicle that case it will be 70-80 taka.\n"
+        "2) From there it’s a walking distance to reach near the Jongolbari (জঙ্গলবাড়ী).\n"
+    </string>
+    <string name="egaro">
+        "Address: Egarosindur Fort is located at Pakundia, Kishoreganj."
+    </string>
+    <string name="chandrabati">
+        "Poet Chandrabati (চন্দ্রাবতী) is considered to be the first Female poet in Bengali literature. She was born in 1550. Her father’s name was Bangshidas Bhattacharya (বংশীদাস ভট্টাচার্য) who is considered as one of the composers of Monosha mongol (মনসা মঙ্গল). She along with her father composed the Monosha Debir Bhashan (মনসা দেবীর ভাসান) during 1575. Poet Chondraboti (কবি চন্দ্রাবতী) started narrating the Ramayana (রামায়ন) from the Sita’s (সীতা) point of view by criticizing Rama (রাম). But unfortunately, she couldn’t finish her work.\n"
+        "Address: Basically most of the literate person from Kishoreganj (কিশোরগঞ্জ) town use to know about this temple and Poet Chondraboti (চন্দ্রাবতী). But it would be slightly difficult to locate the mandir. An ‘easy-bike’ driver from the Shohidi Mosque stand (শহিদী মসজিদ স্ট্যান্ড) of the town can come in handy. He may drop you at the road side near the village Chandraboti (চন্দ্রাবতী) and from there you have to cross the bridge over the river Narasunda (নরসুন্দা) and have to walk around 7/8 minutes to reach near the temples.\n"
+    </string>
+
+    <string name="Mohera_Jamindar_Bari">
+        "It is not sure but people believed that they have started their Zamindari somewhere around 1890. First Zamindar (জমিদার) was Kalichoron Shaha (কালিচরণ সাহা). Beside their Land Lordship, they have conducted trading related to Jute and Salt. They were the owner of huge land properties from different part of Bangladesh. During country division and war, most of them moved into India.\n"
+        "Address: From Tangail Ask the bus to drop you at Natia Para(নাটিয়া পারা). This stoppage is just after the Pakulla of Mirzapur(পাকুল্লা, মির্জাপুর). From the Natia Para(নাটিয়া পারা) bazaar, you can take CNG auto, Tempo, Rickshaw, etc to reach the Mohera Police Training Center, where the Jomidar bari(মহেরা জমিদার) exist. \n"
+    </string>
+    <string name="Dhanbari">
+        "Dhanbari Nawab Manzil (ধনবাড়ি নবাব মনজিল) is locally known as Nawab Bari (নবাব বাড়ী). This is now owned by the descendants of Nawab Ali Chowdhury (নবাব আলী চৌধুরী). They have been taking a good care of this palace and also built several cottages inside the premise for the tourists for staying. This is the only heritage resort from our Bangladesh. This is also known as Dhanbari (ধনবাড়ী) Royal Resort.\n"
+        "Address: If you want to use public transport, then Binimoy (বিনিময়) Bus Service is the option. This will start from Dhaka-Mohakhali (মহাখালী) Bus Terminal and stops exactly at the Dhanbari (ধনবাড়ী), beside the palace. \n"
+        "Another option could be the Nirala (নিরালা) Bus service. Using that from Mohakhali (মহাখালী), you can come to the Tangail (টাঙ্গাইল) within around 3 hours. It’s a direct bus service with no stoppage. From Tangail (টাঙ্গাইল), you can use CNG auto rickshaw to reach near the palace. It will be around 2 hours of CNG ride.\n"
+    </string>
+    <string name="Atia_Mosque">
+        "Atia Mosque is a 17th-century mosque located at Delduar Upazila, Tangail District, Bangladesh. The mosque is also known as Atia Jame Moshjid. It was built during the Mughal Empire.\n"
+        "Address:  Delduar Upazila, Tangail.\n"
+    </string>
+    <string name="Madhupur_park">
+        "Madhupur National Park (MNP) is situated on Dhaka-Mymenshing Road, 125 km North of Dhaka. MNP was established in 1982 following the Wildlife Act of 1974 and was declared a National Park (NP) in 1982. It covers an area of 8436 ha. The Bongshai River that flows through MNP on the southern side of the forest is a part of the old Brahmaputra channel.\n"
+        "Address: Madhupur, Dhaka-Mymenshing Road.\n"
+    </string>
+
+    <string name="foys_lake">
+        "Foy’s Lake Amusement World is a theme park located in the heart of Chittagong, in Foy’s Lake. Amusement World is located in the same complex as Sea World and Foy’s Lake Resorts. The Foy’s Lake theme parks are located in a picturesque setting surrounded by hills, a lake and green forests located in Pahartoli.\n"
+        "Amusement World is a dry park with the usual theme park rides and attractions as well as boat rides on the lake, landscaping, restaurants, concerts with floating stages, scenic walking trails and many other fun activities. It even boasts a resort hotel. The biggest attraction is the beauty of the lake and its surrounding hills.\n"
+        "How to Go: It is located in Pahartali, Northern part of Chittagong. You can go to the Foy’s lake by Bus, Auto Rickshaw, and Tempu or by other private vehicle. It will take about half an hour from Chittagong city by auto rickshaw.\n"
+        "There are many hotels available in Chittagong. Some of them have been mentioned below for your help.\n"
+        "Hotel Golden In.\n"
+        "Address: 336 Station Rd Chittagong\n"
+        "Contact: 611 004\n"
+        "Asian SR Hotel\n"
+        "Address: 291 Station Rd Chittagong\n"
+        "Contact: 031-2850346-8, 01711-889555\n"
+    </string>
+    <string name="patenga">
+        "Patenga Beach is one of the renowned beaches in Bangladesh. For watching sunset, Patenga is a beautiful sea beach close to Chittagong city. It is near the beginning of the Karnaphuli River.\n"
+        "The beach is very close to Bangladesh Naval Academy of Bangladesh Navy, and Shah Amanat International Airport.\n"
+        "During 1990s lots of restaurants and kiosks have been developed around the beach area. Some of them have been mentioned below for your help.\n"
+        "Hotel Golden In.\n"
+        "Address: 336 Station Rd Chittagong\n"
+        "Contact: 611 004\n"
+        "Asian SR Hotel\n"
+        "Address: 291 Station Rd Chittagong\n"
+        "Contact: 031-2850346-8, 01711-889555\n"
+        "How to go: Patenga is a sea beach located 14 kilometers to south of Chittagong, Bangladesh. It will take about an hour from the center of Chittagong city by auto rickshaw, Bus or Tempu to reach Patenga Beach.\n"
+    </string>
+    <string name="ethnological">
+       "Ethnological Museum is a unique treasure house, consisting of variety of tribal culture and heritage of Bangladesh. This is considered as the only ethnology museum in Bangladesh which displays the lifestyles and heritage of 37 ethnic groups and four foreign countries.\n"
+       "Opening Hour- 9am-5pm Tue-Sat and 1.30-5pm (Month Oct-Mar), 10am-6pm Tue-Sat and 1.30-6pm (Month Apr-Sep)\n"
+       "How to go: Located in Agrabad, Chittagong. It will take about half an hour to reach the Agrabad area from Chittagong city by auto rickshaw.\n"
+   </string>
+    <string name="mohamaya_lake">
+        "Lakes in the middle of hills are attractive always as a person can enjoy both Water and Green at a time. It is the 2nd biggest lake of Bangladesh with an area of 11 square kilometers.  Little Waterfalls of Mohamaya area are also available here to make your trip little more adventurous.\n"
+        "Address: Mohamaya lake, located at Thakurdighi area of Mirsharai Upazilla in Chittagong.\n"
+    </string>
+    <string name="bashkhali_beach">
+        "Banshkhali Sea Beach comprises of six or seven points including Khankhanabad, Kadamrasul, Kathariya, Baharchara, Ratnapura and Gandamara. There can be seen a plenty of oysters, corals and embellished snail shells. You can spend the whole afternoon playing with the waves and finally return bidding adieu to the sun.Along the length of the beach, there are queues of pine-trees.\n"
+        "How to go: Banshkhali is in the middle of Chittagong and Cox’s bazar. From Dhaka one needs to go to Chittagong first. Then Banshkhali can be reached by bus from city’s Bohhoddar hat bus terminal. It is only a two-hour journey by bus from Chittagong.\n"
+    </string>
+    <string name="khoiachara">
+        "Khoiyachora falls is really different from the usual waterfalls in Bangladesh. This waterfall is pretty big in size and there are steps of waterfall here. Khoiyachora falls contains everything for a perfect and mind-blowing trekking experience. \n"
+        "Although it is addressed in Mirassarai, the falls is not in the central Mirassarai.  you just have to go to Bartakia Bazar situated a little south from Mirassarai and look for local 3 wheelers driven by CNG. Via these local CNGs you will reach the local bazar and from there you have to walk to the waterfalls. After walking for a bit you will find a water stream that will lead straight to the falls. \n"
+    </string>
+    <string name="war_cemetry">
+        "Chittagong War Cemetery is a memorable burial place for members of the armed forces who died during 2nd world war. Bangladesh Army built it and 755 dead persons were buried there. The soldiers buried there were from United Kingdom-378, Canada-25, Australia-09, New Zealand-02, Undivided India-214, East Africa-11, West Africa-90, Burma (Now Myanmar)-02, Netherlands-01, Japan-19 and Non-soldiers-04. It is maintained by Commonwealth Grave Commission.\n"
+        "How to go: Chittagong War Cemetery is in Dampara locality, Badsha Mia Chowdhury Road  (No.- 19); a well-known road leading to the Hindu Kali Bari Temple. It’s a bit hard to find the place. You have to hire a CNG Auto Rickshaw to reach there and most of the drivers do not know this place as Cemetery. You have to tell them you want to go to the graveyard of Christian People.\n"
+    </string>
+    <string name="bayazid_bostami">
+        "The Shrine of Bayazid Bostami is a shrine in Chittagong, Bangladesh. Bayazid Bostami was a famous Persian Sufi born in Bostam, Iran. Its shrine area as a complex consists of a tomb surrounded by a brick structure along with an old mosque and a large pond.\n"
+        "Address: Shrine of Hazrat Bayazid Bostami is located on the stop of a gently sloping hill at Nasirabad, near Chittagong in Bangladesh.\n"
+    </string>
+    <string name="zia">"Chittagong Circuit House and Zia Memorial Museum"</string>
+    <string name="zia_text">
+        "President Zia was killed on this circuit house on the date of May 30th 1981 in the room no 04. Most of Zia’s activities including his household goods are preserved in this museum. Actually the house was built by British for their government’s high officials’ as there resident; this house was also used by Pakistani army as a torturing center during the liberation war of Bangladesh. Pak army killed thousands of Bengladeshi in this house.\n"
+        "Address: Chittagong Circuit House and Zia Memorial Museum Chittagong Circuit House and is situated near Chittagong Stadium at Kazir Dewri and 3 km. North end of the Zero point.\n"
+        "You can go to the Zia Memorial Museum (Chittagong Circuit House) by Bus, Auto Rickshaw, and Tempu or by other private vehicle. It will take about half hour from the center place of Chittagong city by auto rickshaw.\n"
+    </string>
+    <string name="batali_hill">
+        "The Batali Hill is the highest hill within the Chittagong Metropolitan area. From the peak of the Batali Hill, one can have a bird’s eye view of the city. A large number of people ascends to the top of the hill to fill their lungs with fresh air and to enjoy the breathtaking scenery of the sunset in the Bay of Bengal. The hill is about 280 feet high.\n"
+        "You can go to the Batali Hill by Bus, Auto Rickshaw, and Tempu or by other private vehicles. It will take about half hour from the center place of Chittagong city by auto rickshaw. \n"
+    </string>
+    <string name="butterfly_park">
+        "This tropical garden park with water features and playgrounds is home to some 4,000 butterflies.\n"
+        "Address: 15, Naval Academy Road, Beside Airport, Patenga, Chittagong.\n"
+    </string>
+    <string name="chittagong_zoo">
+        "Chittagong Zoo is a Zoo in Chittagong, Bangladesh. With an area of 6 acres of land it is located about three kilometers north-east of the city, alongside at the entrance of Foy's lake, opposite the foothills of the mountains of USTC Medical College.\n"
+        "Address: Foy's Lake Approach Rd, Chittagong.\n"
+        "Open everyday 10AM-6.30PM \n"
+    </string>
+    <string name="adhar_manik">"Adhar Manik Shanti Niketan Buddhist Monastery"</string>
+    <string name="adhar_text">
+        "Address: Chowdhury Residence, Buddhist Temple Road, Chittagong.\n"
+    </string>
+    <string name="halishahar_beach">
+        "Halishahar Beach is located in Chittagong.This beautiful and wide beach is one of the most recently appreciated natural tourist sites of Chittagong.When you will go there you’ll have no reason not to appreciate the natural calmness of the beach. It is also known as Anandabazar beach, South Kattali beach and among the local folks it is known as Fisherman Beach.This beach is popular among locals as a decent picnic spot, a quiet place to spend family afternoon and a perfect place to have a wonderful sunset experience.\n"
+        "Address: Sea Beach Rd, Chittagong.\n\n"
+    </string>
+    <string name="cox_bazar">
+    "Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Though the beach is considered to be the longest beach in the world.\n\n"
+    "How to go: You may come to Cox’s Bazar by bus or air directly. There are several bus services available from Dhaka to Cox’s Bazar. Bus fare is around BDT 650-900 non-A/C and BDT 1200-1800 A/C . The journey is near about 8-10 hours. As well as Bangladesh Biman, United Air, Regent Air has domestic flights for Dhaka to Cox’s Bazar. From cox’s bazar you can easily reach to the Laboni, Kolatoli and Inani point by Rickshaw or Auto Rickshaw.\n\n"
+    "Some of the hotels/motels in Rangamati are listed below for your assistance.\n\n"
+    "1. Hotel Seagull, Hotel Motel Zone, Cox’s Bazar Sea Beach,Cox’s Bazar.\n"
+    "Cell: +88 01766666530, +88 0176666653 \n"
+    "2. Hotel Sea Palace, Kalatoli Road, Cox’s Bazar.\n"
+    "Mobile: 01714652227-8, 01979405051-2 \n"
+    "3. Saint Martin Resort, Plot # ten, Block- a, Kalatoli Road, Cox’s Bazar\n"
+    "Phone: +88-0341-62862, 64275 \n"
+    "4. Hotel Sea Crown, Marin Drive, Kola Toil New Beach \n"
+    "Mobile: 01817-089420 \n\n"
+</string>
+    <string name="sonadia">
+        "Sonadia Island is a sanctuary for migratory birds such as petrels, snipe, shanks, lapwings, geese and ducks and other waterfowl. According to legend, a ship laden with gold sunk here centuries ago during an attack by Portuguese pirates and an island formed around the shipwreck. It is only seven kilometer from Cox’s Bazar and about nine square kilometer in area.\n"
+        "How to go: Just a short county and speed boat ride away and there are no public launches. So you’ll have to hire a boat at Kasturaghat, or around the port, ask if any fishermen are heading that way. A speedboat from Kasturaghat takes around 10 minutes. \n"
+    </string>
+    <string name="Himchori_Waterfall">
+        "Shallow waterfall located in a national park, popular for sunset views over the sea.\n"
+        "Address:  Marine Dr Himchori, Cox's Bazar. \n\n"
+    </string>
+    <string name="Laboni_Beach">
+        "Laboni beach is the longest and main beach of Cox’s Bazar. It is the closest sea beach to the town. At here a traveler can easily enjoy the scenic beauty of Bay of Bengal Sea. The beach is well appreciated during sunsets and sunrise, where people can witness the sea as it changes its colors twice in a day. It is best for swimming and relaxation. Close to the beach.\n"
+    </string>
+    <string name="inani">
+        "Inani Beach (also Enani Beach) is a sea beach in Ukhia Upazila of Cox’s Bazar District, about 18 kilometers long. It has a nice view and has lots of coral stones. These coral stones take on a green shade during the summer and in the rainy season. The water stored in between stones contain small sea-fish, crabs, snail, and many more. These will keep you busy for all day long. \n"
+        "From Cox’s Bazar you can reach Inani beach by rickshaw or CNG auto rickshaw.\n"
+    </string>
+    <string name="kolatoli">
+        "Kolatoli Beach is one of the most attractive beach for the tourist in Cox’s Bazar. Every year people of different ages come here to have the feelings of taking sea-bath. Visitors can bath in the sea, driving sea ski boat; can have various kind of sea foods. Walking beside the sea shore on moonlit night is always pleasant for tourist of any age.\n"
+        "From Cox’s Bazar you can easily reach to the Kalatoli point by Rickshaw or Auto Rickshaw.\n"
+    </string>
+    <string name="saint">"St. Martin's Island"</string>
+    <string name="saint_text">
+        "Legend has it that in the early part of the seventh century an Arabian merchant ship fully loaded with cinnamons was hit hard by a huge submarine rock near an atoll during a foul weather and was broken asunder scattering cinnamon sticks all over the island, thus giving birth to the name of “Daruchinir Deep” meaning the Island of Cinnamons. But local people used to call this landmass Narikel Jinjira, which means the Island of Coconuts.\n"
+        "From Teknaf you can cruise to St Martin’s Island with the best and the safest ship Keari Sindbad and reach St Martin’s comfortably in 2 or fewer hours. Keari Sindbad cruise journey is a pleasant one as you will see the spectacular views of Teknaf’s hill on one side and Mayanmar on the other side while it cruises along the Naf River.\n"
+        "There are many hotels, so no tension about accommodation system.\n\n"
+    </string>
+    <string name="haripur">"Haripur Barabari (হরিপুর রাজবাড়ি)"</string>
+    <string name="haripur_text">
+        "Haripur Barabari, is a palace in Horipur Union of Nasirnagar Upazila at Brahmanbaria district, Bangladesh earlier known as East Bengal. This palace founded by Jamindar Krishna Prasad Roy Choudhury in eighteenth century.\n"
+    </string>
+    <string name="kal_vairab">"Kal Bhairab Temple (কালভৈরব মন্দির)"</string>
+    <string name="kal_text">
+        "Kal Bhairab Temple (Bengali: কালভৈরব মন্দির) is a Hindu temple, dedicated to the God Shiva, located in Medda in the Brahmanbaria district of Bangladesh. The temple dates back to the 19th century. It is said that approximately 200 years ago a sculptor named Durgacharan Acharjee saw a dream which motivated and influenced him to make preparations to build the statue from soil. Noor Muhammad, the famous landlord of Sarail donated the land to build this temple.\n"
+    </string>
+    <string name="arifil">"Arifile Mosque"</string>
+    <string name="arifil_text">
+        "Arifile Mosque is in Sarail Upazila at Brahmanbaria District, Bangladesh, founded by Shah Arif in 1662. Name derived from Arif to Arifile. Locally known as Arail Mosque. This is an example of Mughal architecture, which combined Bengali, Persian and Islamic influences.\n"
+        "Address: Arifile Mosque is located 15km from Brahmanbaria District and 0.5km northwest from Sarail Upazila.\n"
+    </string>
+    <string name="Shalban">"Shalban Vihara"</string>
+    <string name="shalban_text">
+        "Shalban vihara is an archaeological site in Mainamati, Cumilla, Bangladesh. The ruins are in the middle of the Lalmai hills ridge, and these are of a 7th-century Paharpur-style Buddhist viharas with about 100 cells for monks. It operated through the 12th century.\n"
+        "Address: Comilla University Road, 24no Word Comilla City Corporation, Shalmanpur , comilla \n"
+    </string>
+    <string name="maynamati">
+        "Many archaeological elements were found in Shalban Bhihar. Most of them are kept in the Mainamati Museum now.The special attraction here is a dominant central shrine and its monumental gate way on the north. In its central shrine has revealed six building and rebuilding phases while in the monastery four. The terracotta in sealing indicates that the monastery was built by Sri Bhava Deva, the 4th ruler of the early deva dynasty during mid-8th century. Previously it was called Bhava Deva MahaVihara. The antiquities recovered during excavation are now displayed in the Maynamati Museum.\n"
+    </string>
+    <string name="maynamati_war">
+        "The Mainamati War Cemetery is a war cemetery and a memorial in Comilla, Bangladesh, for Second World War graves from nearby areas during the Second World War. The cemetery contains 736 Commonwealth burials of the Second World War.\n"
+        "Address: Comilla-Sylhet Road. \n"
+    </string>
+    <string name="comilla_temple">
+        "Comilla Jagannath Temple, also known as Sateroratna Mandir or seventeen-jewel temple, is located in Comilla, Bangladesh. It is dedicated to the Hindu God Jagannath. It dates back to the 16th century, and was built by Sree Sreejoktou Moharaja Rada Kishor Manikuo Bahadur, who was the king of Tripura.\n"
+    </string>
+    <string name="comilla_jag">"Comilla Jagannath Temple"</string>
+    <string name="waterpark">
+        "Address: Blue Water Park Rd, Shalmanpur, comilla \n"
+    </string>
+    <string name="comilla_zoo">
+        "Comilla Zoo and Botanical Garden is a Zoo and Botanical Garden in Comilla, Bangladesh. With an area of 10.15 acres of land it is located at Kaliajhuri area of the Comilla District.\n"
+        "Address: Shaheed Shamsul Haque Sarak, Comilla \n"
+    </string>
+    <string name="kingdom">
+        "Address: Comilla\n"
+        "Phone: 01913-899083 \n"
+    </string>
+    <string name="rupban">
+        "Locally this site is known as “Rupban Mura”. After excavation, the sign of a shrine, a monastery and an octagonal votive stupa were found. Among the antiquities, one Gupta imitation gold coin, 04 coins of debased metal, 3 silver coins and a bulky sand stone, Buddha image of post gupta period are mention worthy. On the basis of all the evidences found here, the original monastery and shrine may be dated prior to the 8th Century A.D.\n"
+        "Address: Kotbari, Comilla, Bangladesh \n"
+    </string>
+    <string name="boga_lake">
+        "Boga Lake is the most beautiful natural lake in Bandarban, Bangladesh. It is also known as Bagakain Lake or Baga Lake. The area of Boga lake in Bandarban is about 15 acres. Boga lake is situated at about 3000 feet above sea level of Bangladesh. The color of water of this Boga lake is blue and very much eye catching.\n"
+        "Location: Boga lake is 18 kilometer away from Ruma Sadar Upozilla in Bandarban, Bangladesh.\n"
+    </string>
+    <string name="shoilo">"Shoilo Propat Waterfalls"</string>
+    <string name="shoilo_text">
+        "Shoilo Propat or Shoylo Propat is at Milanchari and 4km from the town on the road to Thanchi. This waterfall is a tourist site maintained by Bangladesh Parjatan Corporation. During the rainy season, the water flow becomes really furious. While visiting this water you may want to roam around the small market near this waterfall for handicrafts, handloom products and exotic foods sold by the tribal people.\n"
+        "How to go: After reaching at Bandarban, take local transport to reach that waterfall in Thanchi Upazila. So you can hire a private jeep or auto rickshaw to go there.\n"
+    </string>
+    <string name="nafakum">
+        "Nafakhum is one of the most beautiful waterfalls in Bangladesh. Nafakhum is situated on the wild hilly Sangu River at a remote area called Remakri of Thanchi upazilla under Bandarban Hill District in Bangladesh. Nafakhum is also known as Remakri waterfall.\n"
+        "How to go: Travelers should reach to Bandarban if they are interested to have a tour to this Nafakhum waterfall. There are many bus services among the districts of Bangladesh to reach Bandarban.\n"
+    </string>
+    <string name="rijuk">"Rijuk Waterfall"</string>
+    <string name="rijuk_text">
+        "Located at Ruma upazilla, Rijuk Waterfall (Rijuk Jhorna) is about 300 feet high with continuous flow of water which falls into the river Sangu. This waterfall is surrounded by diverse natural resources. It is 66km southeast from Bandarban town. Rijuk waterfall is located at Ruma upazilla of Bandarban in Bangladesh. It is 66 kilometer southeast from Bandarban town. As there is no food and accommodation facility in Rijuk falls you have to carry your food and waters from Ruma Bazaar.\n"
+    </string>
+    <string name="jadipai">"Jadipai Waterfall"</string>
+    <string name="jadi_tex">
+        "Jadipai Waterfall or Jadipai Jhorna is one of the widest water falls in Bangladesh. Jadipai Waterfall is located at Ruma upazilla of Bandarban district in Bangladesh. From Keokradong Summit to Jadipai waterfall a traveler will take about one hour walk.\n"
+    </string>
+    <string name="chingri">"Chingri Jhiri Waterfall"</string>
+    <string name="chingri_tex">
+        "Chingri Jhiri waterfall is situated at Ruma upazilla and close to Boga lake. It takes mostly one-hour-walk from Boga lake through some big rock and pebble stones.\n"
+        "How to go: You have to make a trip from Bandarban to Ruma by “Chander Gari” (public jeep) or a private vehicle. From Ruma you can hire public jeep upto Boga Lake. You can also walk to Boga Lake in winter season. It will require 6 hours to reach Boga Lake.\n"
+    </string>
+    <string name="zingsiam">
+        "Zingsiam Saitar is one of the wonderful waterfalls at Ruma upazilla in Bandarban. The unique feature of this waterfall the water fall is divided into three different sections. Altogether these three falls makes a really amazing view. This waterfall is used by the Bawn community for their everyday needs.\n"
+        "How to go: If any travelers are interested to go Zingsiam Saitar then travelers should reach to Bandarban first. There are many bus services among the districts of Bangladesh to reach Bandarban.\n"
+    </string>
+    <string name="buddha">"Buddha Dhatu Jadi"</string>
+    <string name="buddha_tex">
+        "The Buddha Dhatu Jadi is a Theravada Buddhist temple also known as the Bandarban Golden Temple. The Buddha Dhatu Jadi is located at Pulpara 4 kilometer from Balaghata town and 10 kilometer from in the remote Bandarban hill district, in Bangladesh. The Bandarban Golden Temple is the largest Theravada Buddhist Temple with the second largest Buddha statue in Bangladesh.The Buddhist temple is known in local language as kyang. \n"
+        
+    </string>
+    <string name="chimbuk">
+        "Chimbuk hill is the third highest mountain in Bangladesh."
+        "Chimbuk is one of the most familiar tourist spot in Bandarban. It is just 26 kilometer away from Bandarban sadar. Chimbuk hill is about 2500 feet high above sea level. The road of this area is zigzag. So if you ride in a jeep it will be charming.\n"
+        "How to go: \n"
+        "Chimbuk is 26 kilometer away from Bandarban sadar. Visitor can hire a private vehicle from Bandarban sadar or you can go there by Thanci bound bus or jeep. On the way to Chimbuk, visitor has to register his name and address to the military check post.\n"
+    </string>
+    <string name="meghla">
+        "Meghla Parjatan Complex is the most amazing tourist or visited spot for the tourists coming from all over the country. It is 4 km from the town on the road to Keranihat, which features a mini-safari-park, a zoo, boat journey, a hanging bridge and at the bottom of the hills artificial lake has been made. It is a popular place for picnic party.\n"
+        "How to go: Meghla Parjatan Complex is just 4 kilometer away from Bandarban town. Visitor can hire privet Jeep or auto rickshaw for go to Meghla. Local bus is also available to go there.\n"
+    </string>
+    <string name="nilachal">
+        "Nilachal is the nearest tourist spot from Bandarban. It is situated at Tigerpara. It is near about 2000 feet above of sea level and 5 kilometer away from the Bandarban town. From here visitor can see the total glance of Bandarban town and a vast landscape. In the rainy season visitor can be thrilled walking through the clouds. Visitor can watch a golden twilight in the evening and also enjoy an evergreen moonlight in the moonlit night. During the winter season, it is awesome at the foggy morning. \n"
+        "How to go: Nilachal is just 5 kilometer away from Bandarban town. So visitor can hire private jeep or auto rickshaw to go there.\n"
+    </string>
+    <string name="nilgiri">
+        "Nilgiri or Nil Giri is one of the tallest peaks and beautiful tourist spot in Bangladesh. It is about 3500 feet high and situated at Thanci Thana. In rainy season here creates a spectacular scenery, the whole spot is covered with the blanket of clouds. You can enjoy a cloudy experience. Winter is waiting for you with it’s foggy gesture on the height. It is a nice place for campfire in that season. Most attractive time is the dawn.\n"
+        "How to go: Nilgiri is 46 kilometer away from Bandarban sadar. Visitor can hire a private vehicle from Bandarban sadar or you can go there by Thanci bound bus or jeep. On the way to Nilgiri Visitor have to register his name and address to the military check post.\n"
+    </string>
+    <string name="sangu">
+        "Sangu River is the complete part of the natural beauty of Bandarban. It follows a northerly circuitous course in the hill tracts up to Bandarban. This river is widely used for transportation, agricultural and other necessary products for the people of remote community. ou can find here hills, forests, falls with a river together. All the way you will be thrilled only and it is simply amazing.\n"
+        
+    </string>
+    <string name="Keokeradong">
+        "Keokradong is the second highest mountain of Bangladesh. Keokradong is about 4,035 ft (1,230 meters) high from the sea level. It is situated in 30km away from the Ruma sadar upazilla of Bandarban in Bangladesh. This remote area is full of natural beauty. Here you can see many small and big mountains and hills. This area is covered with dense forests, birds and animals.\n\n"
+        "How to go:\n"
+        "You should start your journey early in the morning from Bogalake to reach Keokradong and it may take 5 to 6 hours to reach Keokradong.\n\n"
+    </string>
+    <string name="Tajingdon">
+        "Tajingdong also known as “Bijoy” is the highest mountain of Bangladesh.\n"
+        "Tajingdong is about 4300 ft (1310 meters) high from the sea level. It is situated in remakri pangsha union under Ruma upazilla of Bandarban in Bangladesh. According to local tribal language “Tajing” means “Great” and “Dong” means “Hill” so that means “Great hill”.\n"
+        "How to go:\n"
+        "You should start your journey early in the morning from Bogalake to reach Tajingdong and it may take 7 to 8 hours to reach Tajingdong. \n"
+    </string>
+    <string name="prantik">
+        "Prantik Lake is really beautiful tourist spot in Bandarban district of Bangladesh. This lake is surrounded by many kind of plants and trees. This amazing place will certainly attract tourist mind. Prantik Lake is an ideal place for travel. Tourist can voyage the lake by paddle boat. This lake is nice place for fishing.\n"
+        "How to go: Prantik Lake located in a village named “Holudia” near the Keranihat-Bandarban Road. It is 14km away from Bandarban town. Bandarban to Holudia local bus is available and from Holudia you can hire a jeep or auto rickshaw to go Prantik Lake.\n"
+    </string>
+    <string name="kaptai">
+    "Kaptai lake, beautiful blue watery lake was made by man. The size of Lake is approximately 11000 sq km. You will enjoy the natural beauty of this lake as well as boating on the lake. It is a huge lake and it has some tiny islands.\n"
+    "Location :Kaptai,Rangamati,Chittagong.\n"
+    "How to go: There are many bus service available from Dhaka to Rangamati. After reaching Rangamati you can hire an auto-rickshaw to visit the Kaptai lake. \n"
+</string>
+    <string name="hanging_bridge">
+        "Hanging Bridge is 335 feet long bridge across a portion of the Kaptai lake is an icon of Rangamati. Actually Rangamati is famous for this bridge.It’s really a very beautiful bridge. Every year thousands of people come here to visit this bridge and lake.\n"
+        "How to go: It is just 5 kilometer away from Rangamati town. So visitor can hire private jeep or CNG auto rickshaw to go there.\n"
+    </string>
+    <string name="shuvolong">
+        "Shuvolong Waterfalls is a good-looking waterfall in Rangamati. It is the attractive place of Rangamati. The only obtainable path to influence at the waterfall is through water, through the lake. People visit there by boat. It is a well-known place with the tourists for the waterfall, high hills and the natural neighbouring it offers.\n"
+        "Shuvolong a place in Borokol sub district, situated about 25kilometers (11kilometers – as the crow flies) away from Rangamati. \n"
+    </string>
+    <string name="tribal_museum">
+        "Located in Rangamati, the Tribal Cultural Museum in the Hill Tracts of Bangladesh offers fascinating insight into the history and cultural traditions, as well as socio-economic aspects of the different tribes in the area. Visitors can view displays of tribal dress, ornaments, musical instruments, coins and handicrafts at the museum. Paintings depicting the many facets of tribal life are also on display, as well as a collection of statues made from various metals and wood.\n"
+    </string>
+    <string name="shajek">
+        "Sajek is a union at Baghaichari Upazila in Rangamati districts. The valley is 18000 ft high form sea lavel. The main ethnic minorities on the valley are Chakma, Marma, Tripura, Pankua, Lushai and Sagma. Most attractions of the spot are sun set, rain, morning, evening, and night and aborigine people. Tourist can buy aborigine people product from indigenous Haat. Roads are like big snake spirals mountains. Most of the people are Buddhist and people are Christian here.\n"
+        "Location: \n"
+        "The valley is in Rangamati but tourist can reach there from Khagrachhari too. The route is Khagrachhori – Dighinala Bazaar – Bagaihat Bazaar – Machalong  Haat – then Sajek. It is 106 km from Khagrachhari. Dighinala to Sajek is 25 km. Main transportation is Chander Gari. It costs tk.5000-tk.6000/- from Khagrachhari.\n"
+    </string>
+    <string name="kaptai_park">
+        "This forest reserve is located in the Karnafuly and Kaptai range. According to the government statistics some 50,000 people visits the national park every year as it provides some walking trails among the lush green forest. The animal species of Kaptai National park are deer, elephants, monkeys, fishing cats and birds. The Kaptai Forest Rest house, Kaptai Mukh Forest Rest House and several picnic spots are located here.\n"
+    </string>
+    <string name="rajban_bihar">
+        "An internationally known Buddhist Temple, where the spiritualist principal monk of Rajban Vihara, Shrimath Sadhana Nanda Mohasthabir(Ban Vante) lives.\n"
+
+    </string>
+    <string name="peda">
+        "A small island on the Kaptai Lake, few kilometres away from Rangamati. It is mostly known for its serenity. There are a few tourist accommodation facilities here and a tiny restaurant run by the locals. It offers foods ranging from traditional to indigenous delicacies.\n"
+    </string>
+    <string name="alutia">"Alutila Mysterious Cave"</string>
+    <string name="alutia_text">
+        "Alutila Hill is 150 meter long and very beautiful attractive tourist place of Bangladesh. It is surrounded by deep green forest. Approximately 100 meters long a very dark Cave is the mysterious beauty of Alutila hill. If you are courageous and adventure lover, then this is a perfect spot to vanquish. There is no risk, nothing to warry, it is absolutely safe cave. It will take 15 minutes to pass the cave.\n"
+        "How to go: First you have to go Khagrachari.You can find many bus service from Dhaka to Khagrachari available. From khagrachari you can can hire micro bus or even local bus are available to reach there at any time of the day.\n"
+    </string>
+    <string name="richang">"Richhang waterfall"</string>
+    <string name="richang_text">
+        "Khagrachari – Chittagong road the area of Hridoy member. 7 km shout from the Porjoton motel. 2 km shout from Alutila, 1.50 km from east from the main road. Local bus or Chader gari until Hridoy Member area. Rest 1.50 km by foot.\n"
+        "How to go: There are lots of public bus used to leave from the bus terminal for Chittagong and Feni. You can take any one of those.Beside the highway,a signboard which says where is the waterfall. From the highway, its 2.1 kilometer walking distance.\n"
+    </string>
+    <string name="nonchori">"Nunchhori Debota Pond"</string>
+    <string name="nonchori_text">
+        "Nunchhori Debota Pond (Matai Pukhiri/Goddess Pond) is a remarkable lake known as the Matai Pukhiri, 500 meters above ground level at Nunchhari in Khagrachhari District. According to a legend of the Tripura tribe, the water of this lake never dries up nor becomes dirty, which is why it is called Matai Pukhiri or the Lake of God.\n"
+        "How to go: The Nunchhori Tripura Village is 13 km south from Porjoton motel, 4 km west from Maichchari Army camp of Khagrachari – Rangamati road. Local bus or chadergari of Khagrachari – Rangamati Route go till Maichchori Army camp. You have to go rest 4–5 km on foot. \n"
+    </string>
+    <string name="haji">"Haziganj Boro Masjid"</string>
+    <string name="haji_text">
+        "The mosque was built in 1373 during the rule of Bengal sultan Fakhruddin Mubarak Shah. This mosque is probably the oldest mosque in Comilla district. It is located in Pirojpur village, a little north of Hajiganj sub district. \n"
+        "Location: Beside Chandpur-Comilla Road, Hajiganj, Chandpur.\n"
+    </string>
+    <string name="rupsha">"Rupsa Zamindar Bari"</string>
+    <string name="rupsha_tex">
+        "Rupsa Zamindar Bari is located at Faridganj, Chandpur. \n"
+    </string>
+    <string name="alamgiri">"Walipur Alamgiri Mosque"</string>
+    <string name="alamgir_tex">
+        "Walipur Alamgiri Mosque is situated in Walipur village under Hajiganj Upazila of Chandpur district. There are two mosques in the same locality – one known as Shahi Alamgiri Mosque and the other as Shah Shuja Mosque.  A Persian inscription in fine nastaliq character, fixed over the central doorway, records the construction of the mosque by one Abdullah in 1692 AD in the reign of Alamgir Aurangzeb.\n"
+        "Location: After reaching at Chandpur, take local buses to reach Haziganj Pourashava, and take rickshaw to reach that mosque.\n"
+    </string>
+    <string name="nilkuthi">
+        "Neelkuthi is located at Sahebganj, Faridganj, Chandpur.\n\n"
+    </string>
+    <string name="hatiya">
+        "Hatiya Island is an island in the northern Bay of Bengal, Bangladesh, at the mouth of the Meghna river. The Island falls under Noakhali District. The island has an area of 371 km². Other major offshore islands of this region are Bhola Island and Manpura Island. All of these islands are densely populated.\n"
+        "After reaching at Noakhali district, use boat or other means of communication such as Launch to reach that Island.\n"
+    </string>
+    <string name="gandhi">
+        "The Gandhi Ashram Trust, also called the Ambika-Kaliganga Charitable Trust, is a philanthropic and development organization working in Noakhali since 1946 with Gandhian philosophy of rural development.\n"
+        "Locatioin: From Maijdi/Choumohoni a Bus moving toward Ramganj which has stoppage at Joyag. From joyag you can hire a Rickshaw to the trust or you may walk.\n"
+    </string>
+    <string name="nijhum">
+        "Initially Nijhum Dwip or Nijhum Island was known as Char Osman, This island is an ideal place for tourists, especially during the winter. On 8 April 2001 the government declared the 40390 acres of forest of Jahajmara range including 9550 acres of forest land on Nijhum Dwip as a National Park for the protection and development of the biodiversity of the forest. But in practice.\n\n"
+    </string>
+    <string name="varendra">
+        "Varendra Museum (Bengali: বরেন্দ্র জাদুঘর) is a museum, research center and popular visitor attraction located at the heart ofRajshahi town and maintained by Rajshahi University in Bangladesh. It is considered the oldest museum in Bangladesh. Varendra museum was the first museum to be established in East Bengal in 1910. \n"
+        "How to go: At first you have to reach Rajshahi from Dhaka. Then you can bus or rickshaw to reach the research center.\n"
+    </string>
+    <string name="puthia">
+        "The temples were built by Hindu Zamindars Rajas of the Puthia Raj family who were noted philanthropists of Rajshahi. The temples have been built in terracotta in a variety of styles combining the typical Jor-bangla architecture with other influences. The Rajbari or Palace of the Raja of Puthia and the Dol Mancha are part of the complex. The temples are laid out around a lake with a sprawling lawn.\n"
+        "How to go: This is very easy to visit the Puthia(পুঠিয়া) from Rajshahi town. There is a bus stand near the railway station. You can use the local bus from there for Puthia(পুঠিয়া).  You have to get down from the bus at Puthia Bazar(পুঠিয়া বাজার). From Puthia Bazar(পুঠিয়া বাজার). \n"
+    </string>
+    <string name="bagha_mosque">
+        "Bagha mosque was constructed on a western embankment of a large pond surrounded by brick and walls of 48.77sq meter. It is one of the major tourist attractions of Rajshahi. The mosque was constructed with brick and stone plinth. An earthquake in 1897 destroyed all the domes.\n"
+        "How to go: It is located 25km to south east of main Rajshahi town. A person from his desired location may go there by bus or CNG auto rickshaw. \n"
+    </string>
+    <string name="shah">"Shrine of Hazrat Shah Mokdum (Ra)"</string>
+    <string name="shah_text">
+        "Shrine of Hazrat Shah Mokdum (Ra) can be termed as a Mazar or Dorga which is situated around the grave of Hazrat Shah MokdumRuposh (Ra). He initiated Islam in the Rajshahi region. It is said that he came to Rajshahi by sitting on top of Crocodile.\n"
+        "How to go: It is located in Dargahpara, main Rajshahi town. A person from his desired location may go there by rickshaw or CNG auto rickshaw.\n"
+    </string>
+    <string name="raj_zoo">
+        "The Rajshahi Central Park and Zoo is one of the most interesting zoos in Bangladesh. It is home to many kinds of animals that will fascinate you. The zoo has many sections. One sector has lush greens and trees. There are several creatures to be seen here. There are many reptiles including different types of snakes. The Bengal tigers are the most popular attractions here. However, the baboons, chimpanzees and monkeys are also a hit with the tourists. There are also lions, hippos and tapirs. The Rajshahi Central Park and Zoo also has several bears, impala, giraffes, deer and hyenas.\n"
+        "The zoo can be found close to the Padma River. \n"
+    </string>
+    <string name="natore_rajbari">
+        "Natore Rajbari was a prominent royal palace in Natore, Bangladesh. It was the residence and seat of the Rajshahi Raj family of zamindars. Famous queen Rani Bhabani lived here and after the death of her husband, expanded both the estate and the palace.\n"
+        "Natore Zamindars was one of the largest Zamindaris of Bengal. The originators of this Zamindari were Ramjivan and Raghunandan both sons of Kamdev. Ramjivan’s daughter-in-law was Rani Bhabani (1716-1795).\n"
+        "Things to do:\n"
+        "You can see Roam around there and witness the history, Take pictures for photographic collection. Watch a lot of large and ancient ponds present over there and You can observe the Beheading Well beside choto torof palace, where the then king used to behead the offenders.\n "
+        "Address: Rajbari Rd, Nator \n\n"
+    </string>
+    <string name="uttara_vaban">
+        "Uttara Gonobhaban, often called Dighapatia Raj (sometimes called Dighapatia Raj Paribar literally Dighapatia Royal Family) was a zamindari in present day Rajshahi, which was ruled by this dynasty of 7 generations of Rajas from late 17th century till the mid-20th century.\n"
+        "How to go: Uttara Gonobhaban is 3 km away from Madrasa Mor in Natore Sadar. So you may go there by rickshaw, CNG or auto rickshaw.\n"
+    </string>
+    <string name="sahed">
+        "Shaheed Sagar is located at Gopalpur, LalPur , Natore.\n\n"
+    </string>
+    <string name="mahastangar">
+        "Mahasthangarh (Bengali: মহাস্থানগড় Môhasthangôṛ) is one of the earliest urban archaeological sites so far discovered in Bangladesh. Mahasthan means a place that has excellent sanctity and garh means fort. Mahasthan was first mentioned in a Sanskrit text of the 13th century entitled Vallalcharita. It is also mentioned in an anonymous text Karatoya mahatmya, circumstantially placed in 12th–13th century. \n"
+        "Mahasthangarh, the ancient capital of Pundravardhana is located 11 km (6.8 mi) north of Bogra on the Bogra-Rangpur highway, with a feeder road (running along the eastern side of the ramparts of the citadel for 1.5 km) leading to Jahajghata and site museum. Buses are available for Bogra from Dhaka and take 4½ hours for the journey via Bangabandhu Jamuna Bridge across the Jamuna River. Buses are available from Bogra to Mahasthangarh.\n\n"
+        "At first Bogra is to be reached from Dhaka.\n\n"
+    </string>
+    <string name="gokul">
+        "Gokul Medh is one of the Archaeological sites in Bangladesh. It is an excavated mound in the village of Gokul under Shibganj Upazila of Bogra. It is locally popular by name Behula Lakshindarer Basar Ghar. Lakshindar Medh is another popular name of it."
+    </string>
+    <string name="vasu_vihar">
+        "Vasu Vihara or Vasu Vihar is one of the famous archaeological site in Bangladesh. Locally is popular by the name Narapatir Dhap. It is one of the ancient Buddhist heritage of Bangladesh.\n"
+    </string>
+    <string name="kherua">"Kherua Mosque - খেরুয়া মসজিদ"</string>
+    <string name="kherua_text">
+        "Location: Kherua, Sherpur, Bogra.\n"
+    </string>
+    <string name="saudia">
+        "Saudia City Park is an amusement park located in Sherpur. The park is decorated beautifully and is located 7m on south of Sherpur Upazila.\n"
+    </string>
+    <string name="wonderland">
+        "Wonderland Park is located at Stadium Road, Bogra.\n"
+    </string>
+    <string name="tarash">
+        "Taras building Rai Bahadur Shah is almost untouched until now at Pabna downtown. The landlord of Tarash of Pabna is the most prominent and known as old landlord. At that time,landlord family was known as the landlord of that area. The Tarash building was built with the influence of European Renaissance during the British colonial rule, which is standing until today bearing the memory of landlord Ray Bahador Banamali. \n"
+    </string>
+    <string name="harding">
+        "Hardinge Bridge is a steel railway bridge over the river Padma located at Paksey, Ishwardi, Pabna in western Bangladesh. It is named after Lord Hardinge, who was the Viceroy of India from 1910 to 1916. The bridge is 1.8 kilometres long. \n"
+    </string>
+    <string name="rabi">
+    "It was the parental Zamidari house of Rabindranath Tagore. It contains belongings of the famous poet such as dishes, bathtubs, hookahs, piano, sofa, metal vessels etc. The musical instruments present there such as piano are damaged and not used now. It is now used as a museum. It is frequently visited by many. \n"
+    "Address: Shahjadpur-Khukni Road, Shahjadpur\n"
+</string>
+    <string name="noborotno">
+        "Noborotno Temple(নবরত্ন মন্দির) is located at the Noborotno Para(নবরত্ন পাড়া) village of Hatikumrul Union(হাটিকুমরুল ইউনিয়ন) of Ullapara Upozila(উল্লাপাড়া উপজেলা) of Sirajganj district(সিরাজগঞ্জ জেলা) of Bangladesh(বাংলাদেশ). It is believed to be a 300 years of old temple.\n"
+    </string>
+    <string name="jamuna_park">
+    "Bangabandhu Jamuna Eco Park is located at Jamuna Bridge Patrol Road, Sirajganj. \n"
+</string>
+    <string name="makhdum_shah">
+        "Tomb of Hazrat Makhdum Shah Doula is located at Shahjadpur , Sirajganj.\n"
+    </string>
+    <string name="joysagor">
+        "Joysagar Dighi is located at Raiganj, Sirajganj.\n"
+    </string>
+
+    <string name="sompur">
+        "Somapura Mahavihara in Paharpur, Badalgachhi Upazila, Naogaon District, Bangladesh is among the best known Buddhist viharas in the Indian Subcontinent and is one of the most important archaeological sites in the country. It was designated as a UNESCO World Heritage Site in 1985.\n"
+        "Nameable statues found:\n"
+        "Chamunda' Statue of Clay Stone, Standing 'Seetala' Statue of Red Stone, Broken Parts of 'Visnu' Statue of Krishna Stone, 'Keerti' Statue of Clay Stone \n"
+        "Damaged 'Haargouri' Statue, Broken Statue of Laxmi Narayan of Krishna Stone,'Uma' Statue of krishna Stone,'Visnu' Statue of Clay Stone.\n\n"
+    </string>
+    <string name="kusumba">
+        "Kusumba Mosque is a mosque in Manda Upazila of Naogaon District, Bangladesh. It was built in 1558-59.\n"
+    </string>
+    <string name="bolihar">
+        "Balihar Royal Palace or Bolihar Rajbari (Bengali: বলিহার রাজবাড়ি) is one of the oldest palaces in Sadar upazila of Naogaon. Royal Palace is located on the west side of the Naogaon-Rajshahi highway. There were 330 ponds and dighis in Balihar estate area. Up till now there are many dighis and ponds. \n"
+    </string>
+    <string name="patisar">
+        "Patisar a village in Naogaon district and is noted for being associated with rabindranath tagore as a zamindar. It is situated on the banks of the Nagor, 12 kilometres south-east of the Atrai railway station and 26 kilometres from the district town. The kachari of the Tagore family's zamindari in Kaligram Pargana was located at Patisar. dwarkanath tagore, the grandfather of Rabindranath Tagore, purchased this zamindari in 1830. \n"
+        "Address: Patisar Kuthi Bari is located at Atrai, Naogaon. \n"
+    </string>
+    <string name="dubalhati">
+        "Dubalhati Rajbari or Dubalhati Royal Palace is about 200 years old. Locally it is called Dubolhati Rajbari (Bengali: দুবলহাটি রাজবাড়ি). Rajbari is Bengali word and it's meaning is king's house. Dubolhati estate started by Raja Krishnanath Roy Chowdhury in 1793 near Naogaon. Royal Palace is now abandoned. But once the palace was at least one hundred spacious bedrooms, artistic veranda, colorful glass decoration and the main attraction was different kind of sculpture.\n"
+        "Address: Dubalhati Royal Palace is located at Dubalhati , Naogaon Sadar, Naogaon.\n"
+    </string>
+    <string name="lalkhal">
+        "Lalakhal is one of the most attractive tourist spots in Sylhet. Lalakhal is a wide canal located Sharee River near the Tamabil road. The river is not much deep and it is one of the sources of sand in Sylhet. The focal point of the canal is water. The water has a variety of colors blue, green, clear water at different points.\n"
+        "It is located nearly 43.5 km away from Sylhet town. You may take CNG auto rickshaw or bus heading towards highway close to Shari Gowain River.\n"
+    </string>
+    <string name="shah_poran">
+        "Majar (shrine) of Shah poran হযরত শাহপরান (রঃ) is glorious pilgrimage or spiritual establishment. It is grave of Shah poran who was one of the companion and follower of Islamic preacher Shah Jalal. Shah jalal came Sylhet from middle east in 1303.\n"
+        "It is located 8 km from Sylhet Sadar City, Major Tila. You have to take CNG auto rickshaw or local bus to Major Tila from the main town, where that mazar is located.\n"
+    </string>
+    <string name="shah_jalal">
+        "Hazrat Shahjalal Mazar is situated at Sylhet district in Bangladesh. It is famous for the grave of one of the famous Muslim saints in the region. His name was Shah Jalal ad-Din al-Mujarrad al Naqshbandi. He is locally known as Hazrat Shah Jalal. There are about three and sixty graves from different saints in Sylhet at present. That is the reason; Sylhet city is called Blessed land or Pobitro Nogori.\n"
+    </string>
+    <string name="tea">
+        "The largest and first established tea garden of subcontinent is situated in Sylhet. Yes, this is the Malonichora tea garden. With the help of Mr. Hardson, Malonichora was established with 1500 acres land as a first tea garden of subcontinent in 1849. Now it is conducted by private authority.  Malonichora tea garden is always a great choice for tourist.\n"
+    </string>
+    <string name="hakaluki">
+        "Hakaluki Haor is a marsh wetland ecological system of North-Eastern Bangladesh. It is one of Bangladesh's largest and one of Asia's larger marsh wetland resources. \n"
+    </string>
+    <string name="jaflong">
+    "Jaflong is one of the most attractive tourist spots in Sylhet division. It is about 60 km from Sylhet town and takes two hours drive to reach there. Jaflong is also a scenic spot nearby amidst tea gardens and rare beauty of rolling stones from hills. It is situated besides the river Mari in the lap of Hill Khashia.\n"
+    "How to go: It is located 315 km away from Dhaka. Jaflong is 60.7 km away from Sylhet. You can take bus or CNG auto-rickshaw heading towards Sylhet-Tamabil highway. At first you need to head to Sylhet from Dhaka.\n"
+</string>
+    <string name="ratargul">
+        "Ratargul Swamp Forest is a fresh water marshland forest located close to river Goain, in Gowainghat Upazila of Sylhet District. This forest is engulfed with freshwater in most of the seasons. This evergreen forest gets over flooded during the rainy season. Different local fish are available here. It’s the terrain of different creatures’ like snakes, monkeys, lizards, insects and birds.\n"
+        "It is approximately 18.7 km away from Sylhet. You may take bus or CNG auto rickshaw and head towards Saklutikor road. Take rickshaw to reach there.\n"
+    </string>
+    <string name="bichanakandi">
+        "Bichanakandi is one of outstanding geographical tourist place between India and Bangladesh border. You can see the flags of India standing there 100 feet’s away. Even you can see the beautiful waterfalls coming to Bichankandi from India. The water comes from the cloudy mountains to small rocks, and clean fresh water.\n"
+        "How to go: ou can come to shylet town by Bus or Train from anywhere, then you have to take a CNZ until HADAR Bazar. CNZ fare around 500 TK. Even from AMBARKHAN you can go there by taking a CNZ, there, one CNZ takes 4 passengers at a time and CNZ fare is 80 Tk per person. It takes one and half an hour. Landing HADAR Bazar you have to take a local boat to go BICHANAKANDI.\n"
+    </string>
+    <string name="lawachara">
+        "Lawachara National Park: \n"
+        "Lawachara National Park is a major national park and nature reserve in Bangladesh. The park is located at Kamalganj Upazila, Maulvi Bazar District in the northeastern region of the country. It is located within the 2,740 ha West Bhanugach Reserved Forest.\n"
+    </string>
+    <string name="satchari">
+    "Satchari national park is a natural park of Bangladesh. After the 1974 Wild Life Preservation Act, in 2005 Satchari National Park was built on 243 hectares (600 acres) of land. Literally ‘Satchari’ in Bengali means ‘Seven Streams’. There are seven streams flowing in this jungle, and the name ‘Satchari’ came from there.\n"
+    "How to go: Satchari National Park is located at the Chunarighat Upazila of Habiganj district. You can take buses from Dhaka to go directly in Chunarighat Upazila. Also, you can travel Sylhet or Habiganj. From Habiganj, take local buses or other transports to reach that place.\n"
+</string>
+    <string name="bibiana">
+        "Bibiyana Gas Field: \n"
+        "Bibiyana Gas Field is located at Bibiyana Gas Field Road, Habiganj.\n"
+    </string>
+    <string name="sankarpasa">
+        "Sankar Pasha Shahi Mosque(শংকরপাশা শাহী মসজিদ): \n"
+        "Sankar Pasha Shahi Mosque(শংকরপাশা শাহী মসজিদ) is located at Uchail, Habiganj Sadar , Habiganj.\n"
+    </string>
+    <string name="madhabkundo_water">
+        "MadhabKunda WaterFall: \n"
+        "Madhabkunda Waterfall is situated in Barlekha Upazila in Moulvibazar District of Sylhet Division. It is one of the largest waterfalls in Bangladesh. The waterfall is a popular tourist spot in Bangladesh. Big boulders, surrounding forest, and the adjoining streams attract many tourists for picnic parties and day trips.\n"
+</string>
+    <string name="madhab_eco">
+        "Madhabkunda Eco Park: \n"
+        "Madhabkunda Eco Park (est. 2001) is located at Madhabkunda under Moulvibazar District. This area was declared as Eco Park with a view to conserve the Madhabkunda waterfall and surrounding biodiversity. The Madhabkunda Waterfall is the most attractive site of this Eco Park which is about 200 ft. (61 m) high. A section of ‘Khasia’ tribe lives in the forest villages of this area. They are engaged in some agro-economic activities in the forestland.\n"
+        "How to go: It is 80 km away from main Sylhet town. You can go to Madhabkunda by train, bus or in private transportation. After arriving at Kulaura, CNG or car can be hired (BDT 400-1000) to go to Madhabkunda. The distance of Madhabkunda is 6-7 km from Barlekha Upazila.\n"
+    </string>
+    <string name="baikka_beel">
+        "Baikka Beel Sanctuary is to protect and restore aquatic biodiversity (particularly fish and birds) in Hail Haor. A secondary aim is through the visitor facilities to enhance enjoyment of the site and understanding of nature, the value of wetlands and need for their conservation.\n"
+        "how to go: The sign on the main Moulvibazar-Srimangal road is right to you if you are coming from Moulvibazar, about 0.5 km to Bhairabganj Bazar. A tourist should start from Srimangal town, hire a CNG at station road, standard is 400-500 BDT for taking him/her to the Beel.\n"
+    </string>
+    <string name="humhum">
+        "Hum Hum Water Fall: \n"
+        "Hum Hum is a waterfall in Moulvibazar, Bangladesh. It was discovered in 2010. It is situated in Razkandi reserve forest, Maulvibazar district, Sylhet. The height of the fall is about 147 to 160 feet.\n\n"
+        "How to go:"
+        "To reach Hum Hum Waterfall, you have to trek 3-4 hours through the muddy paths and jungle. \n\n"
+    </string>
+
+    <string name="tanguar">
+        "Tanguar haor (Bengali: টাঙ্গুয়ার হাওর), located in the Dharmapasha and Tahirpur upazilas of Sunamganj District in Bangladesh, is a unique wetland ecosystem of national importance and has come into international focus. The area of Tanguar haor including 46 villages within the haor is about 100 km2 of which 2,802.36 ha2 is wetland.\n"
+        "How to go: It is located in the Dharampasha and Tahirpur Upazila of North-Eastern part in Sunamganj District. So, the best way to reach there is to take bus from Sunamganj and reach Dharmapasha Upazila. From Dharmapasha Upazila, take CNG or Rickshaw to reach that haor.\n"
+    </string>
+    <string name="hason">
+        "Hason Raja was born on 1854 in Sunamganj. His old house is situated at the bank of Surma River in the Tegharia area of Sunamganj Sadar. It is now been converted as a museum and a well known tourist place in the city. Hason Raja was actually an aristocrat Zamindar. But he won a lot of people’s heart by writing an enormous number of lyrics. \n"
+        "How to go: It is located only 5 minutes walking distance away from the city center traffic point. After reaching at Sunamganj Sadar, you can take rickshaw to reach that museum.\n"
+    </string>
+    <string name="paligao">
+        "Pailgaon Zamindar Bari is one of the remarkable old structures of Jagannathpur in Sunamganj. This 300 years old palace was established on 5.5 acres of land. The last person of this Zamindar family was Brajendra Narayan Chowdhury. He was a famous politician at that time and a member of the congress of Sylhet too at that time.\n"
+        "How to go: From Dhaka-Sylhet Highway, you need to drop down at Bibiana Gas Field. Then you take local transport to reach this place.\n"
+    </string>
+    <string name="kuakata">
+    "Kuakata is known for its picturesque landscape beauty of panoramic beach, clear blue sky, the tides of the bay bashing on the shore and its mangrove forest. The beach is about 30 kilometers in length, It’s unique as there are no other beaches in Bangladesh where you can witness both sunrise and sunset. Jhaubon (Jhau forest) is an exquisite place in Kuakata which is close to the beach.\n"
+    "How to go: From Patuakhali launch Ghat, you can easily get local transport (bus) to reach Kuakata. BRTC bus reaches Kuakata from Dhaka, departing from Saidabad bus terminal. It usually takes about 12 hours to reach there. The BRTC buses are comparatively good. The most prominent bus named “Sakura” costs around 450 Taka, departing every night.\n"
+</string>
+    <string name="buddho_templ">
+        "It is the largest Buddhist statue in South Asia. If you visit this Buddhist Temple, you’ll witness the statue of Gautam Buddha as well as the 200 years old temple near to it. You will find hundred years’ old ancient tradition and cultural heritage of traditional Rakhain tribal families.\n"
+        "Kuakata Buddhist Temple is situated only four 4 km away from Kuakata beach.\n"
+    </string>
+    <string name="sonar_char">
+        "Sonar char or Sonakata is located in Barguna district, 32 km from a beach in the Bay of Bengal to the south Amatali. Sonakatara own mahima luminous beauty and amazing beaches. High-water green belts 7/8 feet of water in the bottom of the wind. This is an astounding natural scene. Safe bathing at the sea beach, sunrise and sunset from the same place in San bathasaha overview can be seen. \n"
+        "How to go: Sona Char is located in the south of Bhola which is connected both by air and road from Dhaka, Chittagong and Barisal. You may find local buses from hotel areas in Bhola, and also rickshaw and other local vehicles are available to reach the Sona Char area.\n"
+    </string>
+    <string name="fatrar_char">
+        "Fatrar char is the nice tourist place near Kuakata beach. From Kuakata traveler may visit the Fatrar Chor. Fatrar Chor is the part of the Sundarban forest. Fatrar Char is also known as Fatrar Bon. As the Fatrar Char is the part of Sundarban so it is mangrove forest. Fatrar Bon is fairly big forest in Kuakata.\n"
+        "How to go: From Kuakata beach, you need to rent an engine boat. It is an estimated 1 hour journey from Kuakata beach to Fatrar Ban on foot or a 10 minutes ride by tour guide’s motorcycle.\n"
+    </string>
+    <string name="floating">
+    "The southern region of Bangladesh is famous for guavas, more popularly known in Bangladesh as ‘Bengal’s Apple’. Especially in Jhalakathi Sadar Upazila and at Swarupkathi and Banaripara Upazila in Pirozpur, farmers heavily rely on guava farming. The floating market appears as the centre of Barisal’s (aka The Venice of Bengal) beauty. Nobody knows when the idea of this floating market began, but it’s a hundred-year old tradition.\n"
+    "How to go: After reaching at Barisal Rupatoli bus stand, take “Dhanshiri Paribahan” leaving for Khulna. Ask the bus supervisor to stop at Kirtipasha Mor in Jhalakathi. Bus fare would be 60 taka. From there, take shared Auto Rickshaw to reach Vimruli by paying 20-30 taka.\n"
+</string>
+    <string name="rayerkati">
+        "Around 300 years ago, a landlord family established this Zamindar bari by their name. Parliament, ball-room, guest house and many Hindu temples were constructed near that landlord house. The number of places were amounting to almost 200. Among them, 40-50 were large. In 1658, Kaali (Hindu God) Mandir or temples were established here and The biggest Shiva Linga is also located here, weight is around 1000 kg.\n"
+        " First you have to come to the Pirojpur district (পিরোজপুর জেলা). From Dhaka there are several ferries (locally known as launch) start for Pirojpur (পিরোজপুর) every night. From the district town, you can take auto rickshaw to come near the place. \n"
+    </string>
+    <string name="bibichini">
+        "Bibi Chini Shahi Mosque, is one of the historical places in our country. In 1659, A Muslim saint named Hazrat Shah Neyamat Ullah (Rah.) came here from Persia for Perching Islam in this region. The village and the mosque named after the name of his daughter ‘Hayache Bibi Chini’. \n"
+        "How to go: From Barguna main town, you can easily get local transport to reach Bibi Chini historical Shahi Masjid.\n"
+    </string>
+    <string name="epiphany">
+    "Oxford Mission Church is located at Barisal Sadar, Barisal.\n"
+</string>
+    <string name="mia_bari_mos">
+        "Korapur Mia Bari Mosque (কড়াপুর মিয়াবাড়ি মসজিদ) is an old mosque from the Barisal district (বরিশাল জেলা). The mosque is located at the Mia Bari (মিয়া বাড়ি) of that area. It is believed that the mosque was built during 18th century. \n"
+        "How to go: The mosque is located at the Uttor Korapur (উত্তর কড়াপুর) village. It will be better if you hire a battery driven vehicle from Barisal town (বরিশাল টাউন). And the easiest road will be the Nobogram Road (নবগ্রাম রোড) from Barisal town (বরিশাল টাউন).\n"
+    </string>
+
+    <string name="zaynun">
+        "Zainul Abedin Sangrahashala is an art museum in Mymensingh, Bangladesh. Established in 1975, it contains the collections of the artist Shilpacharya Zainul Abedin. The art gallery was established in Mymensingh as this is where the artist spent his early days.\n"
+        "How to go: A traveler can reach at Town Hall anywhere from Mymensingh city riding on rickshaws or shared auto-rickshaws which may cost around 10 taka. From the town hall area there are so many shared auto-rickshaws available heading toward Kachijhuli (কাঁচিঝুলি). You may ride one of those which may cost 5-10 taka.\n"
+    </string>
+    <string name="may_museum">
+        "Mymensingh Museum is located at the bagan bari of zamindar Madan Babu at 17 Amrita Babu Road, Mymensingh, Bangladesh. The museum, which began as an important regional institution for preservation of locally collected historical evidence, lacks proper preservation.\n"
+    </string>
+    <string name="sosi_lodge">
+        "Shoshi Lodge (শশী লজ) is located at the center of Mymensingh city which is also known as the Residential Palace of  Moharaja Shoshi Kanto Acharya (মহারাজা শশীকান্ত আচার্য). This palace is very close to the river Brahmaputra which is being used as Women Teachers Training College from the year 1952.\n"
+        "How to go: This Zamindar House is located at the main town. It is near the Boro bazar area. It would be better to ask anyone for the location of Women Teachers Training college (মহিলা টিটি কলেজ). You can easily go there using rickshaw or by walking. This old house is currently using as Women Teachers Training College.\n"
+    </string>
+    <string name="bau">
+        "Address: Mymensingh Agricultural University, Maymensingh.\n"
+    </string>
+    <string name="birisiri">
+        "Address: Durgapur - Birishiri - Shamganj Rd, Durgapur, Netrokona\n"
+    </string>
+    <string name="biri2">
+        "Along with enjoying the blue lake of birisiri, you can explore the china clay hill around the lake area. There are several hillocks around the lake. You can climb few of those to get the feelings of hiking. The reason behind exploring the clay hill is its colorful soil. You’ll possibly find almost every color there from the rainbow. Sometimes you might feel that the soil was burnt or something like that, but it’s the natural clay having such color. \n"
+        "How to go: Referred to how to go to Netrokona or Durgapur, click here. After reaching in Durgapur, you can hire a rickshaw to visit the hill and lake. Fix the rickshaw puller for 300 taka, and asked him to come at 7:00 at morning. This may be the only vehicle to reach at the China Clay Lake and Hill.\n"
+    </string>
+    <string name="title_activity_cox_beach">Coxs Bazar</string>
+    <string name="title_activity_saint_martin">Saint Martin</string>
+    <string name="title_activity_kuakata_beach">Kuakata</string>
+    <string name="title_activity_potenga_beach">Potenga</string>
+    <string name="title_activity_nijhum_beach">Nijhum Dip</string>
+    <string name="title_activity_humhum">HumHum WaterFall</string>
+    <string name="title_activity_jadipai_fall">Jadipai WaterFall</string>
+    <string name="title_activity_khoichara_fall">Khoichara</string>
+    <string name="title_activity_madhabkundo_fall">Madhabkundo</string>
+    <string name="title_activity_nafakum_fall">Nafakum</string>
+    <string name="title_activity_lalbag_heri">Lalbag Fort</string>
+    <string name="title_activity_sritysoudho">Jatio Sritysoudho</string>
+    <string name="title_activity_sonargaon">Sonargaon</string>
+    <string name="title_activity_ahsan_manzil">Ahsan Manzil</string>
+    <string name="title_activity_shundarban">The Shundarban</string>
+    <string name="title_activity_shatgumbuj">Shatgumbuj Mosque</string>
+    <string name="title_activity_paharpur">Paharpur Bihar</string>
+    <string name="title_activity_mohastangarh">Mohastangarh</string>
+    <string name="title_activity_lalmai_pahar">Lalmai Pahar</string>
+    <string name="title_activity_nator_rajbari">Nator Rajbari</string>
+    <string name="title_activity_keukradong">Keukradong</string>
+    <string name="title_activity_sajek">Sajek Valley</string>
+    <string name="title_activity_tajing">Tajing Dong</string>
+    <string name="title_activity_foys_lake">Foys Lake</string>
+    <string name="title_activity_chimbuk_hill">Chimbuk Hill</string>
+    <string name="share">share</string>
+    <string name="action_search_text">search_text</string>
+
+</resources>

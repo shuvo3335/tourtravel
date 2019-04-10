@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shuvo.tourtravel">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".splashscreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MapsActivity" />
+        <activity android:name=".GalaryActivity" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity android:name=".museam_list" />
+        <activity
+            android:name=".ArmyMuseum"
+            android:label="@string/title_activity_army_museum"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".National_museum"
+            android:label="@string/title_activity_national_museum"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Dhaka_place" />
+        <activity android:name=".Rajshahi_place" />
+        <activity android:name=".Rangpur_city" />
+        <activity android:name=".Barisal_city" />
+        <activity android:name=".khulna_city" />
+        <activity android:name=".chattagram_city" />
+        <activity android:name=".sylhet_city" />
+        <activity android:name=".mymensingh_city" />
+        <activity
+            android:name=".AirForceMuseum"
+            android:label="@string/title_activity_air_force_museum"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Money_Museum"
+            android:label="@string/title_activity_money__museum"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Libaration_museum"
+            android:label="@string/title_activity_libaration_museum"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Dhaka" />
+        <activity android:name=".Gazipur" />
+        <activity
+            android:name=".Videos"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity android:name=".faridpur" />
+        <activity android:name=".jamalpur" />
+        <activity android:name=".narayanganj" />
+        <activity android:name=".narsindi" />
+        <activity android:name=".rajbari" />
+        <activity android:name=".shariatpur" />
+        <activity android:name=".kishorgonj" />
+        <activity android:name=".tangail" />
+        <activity android:name=".chittagong" />
+        <activity android:name=".cox_bazar" />
+        <activity android:name=".brahmanbaria" />
+        <activity android:name=".comilla" />
+        <activity android:name=".bandarban" />
+        <activity android:name=".rangamati" />
+        <activity android:name=".khagrachari" />
+        <activity android:name=".chandpur" />
+        <activity android:name=".noakhali" />
+        <activity android:name=".rajshahi" />
+        <activity android:name=".natore" />
+        <activity android:name=".bogra" />
+        <activity android:name=".pabna" />
+        <activity android:name=".sirajganj" />
+        <activity android:name=".naoga" />
+        <activity android:name=".sylhet" />
+        <activity android:name=".hobiganj" />
+        <activity android:name=".madhabkundu" />
+        <activity android:name=".sunamganj" />
+        <activity android:name=".patuakhali" />
+        <activity android:name=".pirojpur" />
+        <activity android:name=".barisal" />
+        <activity android:name=".maymensingh" />
+        <activity android:name=".netrokona" />
+        <activity android:name=".weatherActivity" />
+        <activity android:name=".beach" />
+        <activity
+            android:name=".cox_beach"
+            android:label="@string/title_activity_cox_beach"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".saintMartin"
+            android:label="@string/title_activity_saint_martin"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".kuakataBeach"
+            android:label="@string/title_activity_kuakata_beach"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".potengaBeach"
+            android:label="@string/title_activity_potenga_beach"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".nijhumBeach"
+            android:label="@string/title_activity_nijhum_beach"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".waterfall" />
+        <activity
+            android:name=".humhum"
+            android:label="@string/title_activity_humhum"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".jadipaiFall"
+            android:label="@string/title_activity_jadipai_fall"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".khoicharaFall"
+            android:label="@string/title_activity_khoichara_fall"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".madhabkundoFall"
+            android:label="@string/title_activity_madhabkundo_fall"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".nafakumFall"
+            android:label="@string/title_activity_nafakum_fall"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Heritages" />
+        <activity
+            android:name=".lalbag_heri"
+            android:label="@string/title_activity_lalbag_heri"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".sritysoudho"
+            android:label="@string/title_activity_sritysoudho"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".sonargaon"
+            android:label="@string/title_activity_sonargaon"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".AhsanManzil"
+            android:label="@string/title_activity_ahsan_manzil"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".shundarban"
+            android:label="@string/title_activity_shundarban"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Shatgumbuj"
+            android:label="@string/title_activity_shatgumbuj"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".paharpur"
+            android:label="@string/title_activity_paharpur"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".mohastangarh"
+            android:label="@string/title_activity_mohastangarh"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".NatorRajbari"
+            android:label="@string/title_activity_nator_rajbari"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Hills" />
+        <activity
+            android:name=".keukradong"
+            android:label="@string/title_activity_keukradong"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Sajek"
+            android:label="@string/title_activity_sajek"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".tajing"
+            android:label="@string/title_activity_tajing"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".foysLake"
+            android:label="@string/title_activity_foys_lake"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".chimbukHill"
+            android:label="@string/title_activity_chimbuk_hill"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".rangpur" />
+        <activity android:name=".dinajpur" />
+        <activity android:name=".nilphamary" />
+        <activity android:name=".kurigram" />
+        <activity android:name=".panchagar" />
+        <activity android:name=".khulna" />
+        <activity android:name=".bagerhat" />
+        <activity android:name=".jessore" />
+        <activity android:name=".kustia" />
+        <activity android:name=".meherpur" />
+        <activity android:name=".narail" />
+        <activity android:name=".about" />
+        <activity android:name=".feedback"></activity>
+    </application>
+
+</manifest>
